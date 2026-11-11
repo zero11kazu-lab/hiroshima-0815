@@ -1,0 +1,73 @@
+{
+  "results": [
+    {
+      "label": "house behind player",
+      "distance": 6.073096409575597,
+      "penetrations": 0,
+      "hidden": 0,
+      "centered": true,
+      "faded": 0
+    },
+    {
+      "label": "house beside alley",
+      "distance": 2.4042188526285693,
+      "penetrations": 0,
+      "hidden": 0,
+      "centered": true,
+      "faded": 0
+    },
+    {
+      "label": "between houses",
+      "distance": 6.073096409575597,
+      "penetrations": 0,
+      "hidden": 0,
+      "centered": true,
+      "faded": 0
+    },
+    {
+      "label": "tree behind",
+      "distance": 6.073096409575597,
+      "penetrations": 0,
+      "hidden": 0,
+      "centered": true,
+      "faded": 0
+    },
+    {
+      "label": "under canopy",
+      "distance": 6.073096409575597,
+      "penetrations": 0,
+      "hidden": 0,
+      "centered": true,
+      "faded": 1
+    },
+    {
+      "label": "miyuki bridge",
+      "distance": 6.073096409575597,
+      "penetrations": 0,
+      "hidden": 0,
+      "centered": true,
+      "faded": 2
+    },
+    {
+      "label": "open street",
+      "distance": 6.073096409575597,
+      "penetrations": 0,
+      "hidden": 0,
+      "centered": true,
+      "faded": 0
+    }
+  ],
+  "sweep": 11424,
+  "penetrations": 0,
+  "occluded": 0,
+  "minDistance": 1.848330481384684,
+  "clipped": 0,
+  "failures": [],
+  "recovery": {
+    "near": 1.8841292928431073,
+    "first": 2.0550833150289285,
+    "recovered": 6.072913992063327,
+    "normal": 6.073096409575597
+  }
+}
+Camera regression PASS

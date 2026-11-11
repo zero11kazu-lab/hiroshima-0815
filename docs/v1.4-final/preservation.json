@@ -1,0 +1,11 @@
+{
+  "baselineCommit": "221fd135db4bad1ef8d2847bd94067f657467fbf",
+  "changedExistingGameSource": [
+    "src/post-missions.js",
+    "src/aftermath.js",
+    "src/visual-quality.js"
+  ],
+  "existingDataAndAssetsUnchanged": true,
+  "distAssetBytesMatch": true,
+  "v14Stage4BackupBundle": "LOCAL_WORKSPACE_PATH"
+}

@@ -1,0 +1,46 @@
+{
+  "PASS": true,
+  "testType": "State only; DOM/renderer stubbed; audio unavailable",
+  "loops": [
+    {
+      "branch": "A",
+      "back": {
+        "started": false,
+        "returning": false,
+        "pre": true,
+        "mode": "PRE",
+        "history": "[\"v12-m1-EE-10\",\"v12-m2-EW-12\",\"v12-m3-EWW-01\",null,\"pre-masami-01\"]",
+        "samePlayer": true
+      },
+      "started": {
+        "started": true,
+        "redrawn": true,
+        "samePlayer": true,
+        "sameGeometry": true,
+        "count": 37,
+        "mode": "PRE",
+        "center": 0
+      }
+    },
+    {
+      "branch": "B",
+      "back": {
+        "started": false,
+        "returning": false,
+        "pre": true,
+        "mode": "PRE",
+        "history": "[\"v12-m1-EE-04\",\"v12-m2-EE-04\",\"v12-m3-WEE-01\",null,\"pre-masami-13\"]",
+        "samePlayer": true
+      },
+      "started": {
+        "started": true,
+        "redrawn": true,
+        "samePlayer": true,
+        "sameGeometry": true,
+        "count": 37,
+        "mode": "PRE",
+        "center": 0
+      }
+    }
+  ]
+}

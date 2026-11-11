@@ -1,0 +1,1 @@
+PASS: JSON IDs, singleton managers, build script order unique

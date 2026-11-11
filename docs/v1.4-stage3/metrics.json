@@ -1,0 +1,37 @@
+{
+  "note": "79 post-blast building graphs, all details enabled. Potential mesh batches, not actual GPU calls/FPS. Water counted separately.",
+  "before": {
+    "levels": {
+      "DESTROYED": 17,
+      "HEAVILY_DAMAGED": 25,
+      "COLLAPSED": 23,
+      "DAMAGED": 13,
+      "INTACT": 1
+    },
+    "meshes": 417,
+    "triangles": 11790,
+    "geometryBytes": 1151064,
+    "materials": 11,
+    "water": {
+      "meshes": 10,
+      "triangles": 284
+    }
+  },
+  "after": {
+    "levels": {
+      "DESTROYED": 17,
+      "HEAVILY_DAMAGED": 25,
+      "COLLAPSED": 23,
+      "DAMAGED": 13,
+      "INTACT": 1
+    },
+    "meshes": 239,
+    "triangles": 29500,
+    "geometryBytes": 3821688,
+    "materials": 5,
+    "water": {
+      "meshes": 5,
+      "triangles": 448
+    }
+  }
+}

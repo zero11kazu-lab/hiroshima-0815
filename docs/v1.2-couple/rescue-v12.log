@@ -1,0 +1,54 @@
+{
+  "PASS": true,
+  "results": [
+    {
+      "PASS": true,
+      "sides": "EEW",
+      "seed": 1,
+      "frames": 1760,
+      "seconds": 58.666666666666664,
+      "minGap": 0.7401933982957483,
+      "maxGap": 2.2785405507662393,
+      "crossed": true,
+      "retried": true,
+      "hp": 100,
+      "appearance": "CLOTH_HALF",
+      "masami": {
+        "id": "v12-masami-01",
+        "position": {
+          "x": -22,
+          "z": -62
+        },
+        "side": "W",
+        "region": "京橋川西岸側",
+        "coverType": "street-remains",
+        "routeLength": 194.28190053239578
+      }
+    },
+    {
+      "PASS": true,
+      "sides": "WWE",
+      "seed": 2,
+      "frames": 2391,
+      "seconds": 79.7,
+      "minGap": 0.7400112115603984,
+      "maxGap": 2.1507273608625135,
+      "crossed": true,
+      "retried": true,
+      "hp": 100,
+      "appearance": "CLOTH_HALF",
+      "masami": {
+        "id": "v12-masami-24",
+        "position": {
+          "x": 108,
+          "z": 78
+        },
+        "side": "E",
+        "region": "京橋川東岸側",
+        "coverType": "street-remains",
+        "routeLength": 74.27511447792827
+      }
+    }
+  ],
+  "errors": []
+}

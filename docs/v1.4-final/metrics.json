@@ -1,0 +1,156 @@
+{
+  "before": {
+    "npc": 37,
+    "views": [
+      {
+        "post": false,
+        "position": {
+          "x": 1.2,
+          "z": -50
+        },
+        "visibleMeshBatches": 394,
+        "submittedTriangles": 64220,
+        "uniqueGeometryBytes": 4947688,
+        "materials": 58,
+        "textures": 15
+      },
+      {
+        "post": false,
+        "position": {
+          "x": -9,
+          "z": -52
+        },
+        "visibleMeshBatches": 372,
+        "submittedTriangles": 59580,
+        "uniqueGeometryBytes": 4381700,
+        "materials": 54,
+        "textures": 14
+      },
+      {
+        "post": false,
+        "position": {
+          "x": 40,
+          "z": 50
+        },
+        "visibleMeshBatches": 464,
+        "submittedTriangles": 67664,
+        "uniqueGeometryBytes": 5253504,
+        "materials": 68,
+        "textures": 14
+      },
+      {
+        "post": true,
+        "position": {
+          "x": 1.2,
+          "z": -50
+        },
+        "visibleMeshBatches": 383,
+        "submittedTriangles": 23894,
+        "uniqueGeometryBytes": 2493436,
+        "materials": 45,
+        "textures": 13
+      },
+      {
+        "post": true,
+        "position": {
+          "x": -9,
+          "z": -52
+        },
+        "visibleMeshBatches": 366,
+        "submittedTriangles": 22356,
+        "uniqueGeometryBytes": 2313748,
+        "materials": 45,
+        "textures": 13
+      },
+      {
+        "post": true,
+        "position": {
+          "x": 40,
+          "z": 50
+        },
+        "visibleMeshBatches": 450,
+        "submittedTriangles": 27516,
+        "uniqueGeometryBytes": 2928484,
+        "materials": 49,
+        "textures": 12
+      }
+    ]
+  },
+  "after": {
+    "npc": 37,
+    "views": [
+      {
+        "post": false,
+        "position": {
+          "x": 1.2,
+          "z": -50
+        },
+        "visibleMeshBatches": 376,
+        "submittedTriangles": 67336,
+        "uniqueGeometryBytes": 5517792,
+        "materials": 40,
+        "textures": 12
+      },
+      {
+        "post": false,
+        "position": {
+          "x": -9,
+          "z": -52
+        },
+        "visibleMeshBatches": 360,
+        "submittedTriangles": 62530,
+        "uniqueGeometryBytes": 4886568,
+        "materials": 40,
+        "textures": 12
+      },
+      {
+        "post": false,
+        "position": {
+          "x": 40,
+          "z": 50
+        },
+        "visibleMeshBatches": 461,
+        "submittedTriangles": 68660,
+        "uniqueGeometryBytes": 5428176,
+        "materials": 62,
+        "textures": 14
+      },
+      {
+        "post": true,
+        "position": {
+          "x": 1.2,
+          "z": -50
+        },
+        "visibleMeshBatches": 374,
+        "submittedTriangles": 28276,
+        "uniqueGeometryBytes": 3209236,
+        "materials": 38,
+        "textures": 12
+      },
+      {
+        "post": true,
+        "position": {
+          "x": -9,
+          "z": -52
+        },
+        "visibleMeshBatches": 359,
+        "submittedTriangles": 26018,
+        "uniqueGeometryBytes": 2912908,
+        "materials": 38,
+        "textures": 12
+      },
+      {
+        "post": true,
+        "position": {
+          "x": 40,
+          "z": 50
+        },
+        "visibleMeshBatches": 450,
+        "submittedTriangles": 28668,
+        "uniqueGeometryBytes": 3152836,
+        "materials": 46,
+        "textures": 12
+      }
+    ]
+  }
+}

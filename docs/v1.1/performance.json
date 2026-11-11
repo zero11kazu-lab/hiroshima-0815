@@ -1,0 +1,124 @@
+[
+  {
+    "port": 8098,
+    "views": [
+      {
+        "point": {
+          "x": 0,
+          "z": 35
+        },
+        "medianFrameMs": 2.8000000002793968,
+        "p95FrameMs": 38,
+        "calls": 265,
+        "triangles": 22244,
+        "textures": 14,
+        "geometries": 192
+      },
+      {
+        "point": {
+          "x": 0,
+          "z": 10
+        },
+        "medianFrameMs": 1.400000000372529,
+        "p95FrameMs": 3.2999999998137355,
+        "calls": 237,
+        "triangles": 20560,
+        "textures": 19,
+        "geometries": 283
+      },
+      {
+        "point": {
+          "x": 26,
+          "z": -22
+        },
+        "medianFrameMs": 0.5,
+        "p95FrameMs": 6.100000000093132,
+        "calls": 115,
+        "triangles": 14572,
+        "textures": 20,
+        "geometries": 315
+      }
+    ],
+    "groups": 82,
+    "npcs": 25
+  },
+  {
+    "port": 8097,
+    "views": [
+      {
+        "point": {
+          "x": 0,
+          "z": 35
+        },
+        "medianFrameMs": 1.2999999998137355,
+        "p95FrameMs": 8.299999999813735,
+        "calls": 282,
+        "triangles": 23804,
+        "textures": 14,
+        "geometries": 209
+      },
+      {
+        "point": {
+          "x": 0,
+          "z": 10
+        },
+        "medianFrameMs": 0.8999999999068677,
+        "p95FrameMs": 5.2999999998137355,
+        "calls": 251,
+        "triangles": 22108,
+        "textures": 19,
+        "geometries": 300
+      },
+      {
+        "point": {
+          "x": 26,
+          "z": -22
+        },
+        "medianFrameMs": 0.6000000000931323,
+        "p95FrameMs": 2.1000000000931323,
+        "calls": 145,
+        "triangles": 16514,
+        "textures": 20,
+        "geometries": 343
+      },
+      {
+        "point": {
+          "x": 86,
+          "z": 45
+        },
+        "medianFrameMs": 0.7999999998137355,
+        "p95FrameMs": 1.5,
+        "calls": 157,
+        "triangles": 14884,
+        "textures": 21,
+        "geometries": 402
+      },
+      {
+        "point": {
+          "x": 86,
+          "z": -59
+        },
+        "medianFrameMs": 0.6999999997206032,
+        "p95FrameMs": 4.600000000093132,
+        "calls": 82,
+        "triangles": 12496,
+        "textures": 21,
+        "geometries": 434
+      },
+      {
+        "point": {
+          "x": 0,
+          "z": 78
+        },
+        "medianFrameMs": 0.8999999999068677,
+        "p95FrameMs": 10.899999999906868,
+        "calls": 240,
+        "triangles": 21484,
+        "textures": 22,
+        "geometries": 525
+      }
+    ],
+    "groups": 157,
+    "npcs": 29
+  }
+]

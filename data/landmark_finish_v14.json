@@ -1,0 +1,10 @@
+{
+  "version": "1.4-final",
+  "confidence": "gameplay_adjusted",
+  "sourceIds": ["S05", "S06", "S07", "S08"],
+  "note": "既存の位置・外形寸法を継承した簡略模型。存在・公表距離と、未同定の立面・窓割・塗装・細部を区別する。市役所の塔状上部も既存模型を継承した創作補完で、精密復元ではない。",
+  "tram": {"vehicleNumber": null, "liveryConfidence": "gameplay_adjusted", "note": "1945年の路面電車を参考にしたオリジナルの二方向運転台風模型。特定形式・号車・史実塗装を断定しない。", "maximumTriangles": 2400},
+  "publicMaximumTriangles": 4500,
+  "detailDistance": 38,
+  "bridge": {"existenceConfidence": "confirmed", "geometryConfidence": "gameplay_adjusted", "sourceIds": ["S05", "S06"], "note": "1931年橋の存在と損傷を参考にした小部材。現橋の精密復元ではない。"}
+}

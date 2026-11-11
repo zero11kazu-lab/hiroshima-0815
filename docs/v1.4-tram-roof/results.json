@@ -1,0 +1,89 @@
+{
+  "roof": {
+    "PASS": true,
+    "testType": "Real geometry/front-face rays; renderer stubbed",
+    "report": [
+      {
+        "post": false,
+        "roofTriangles": 52,
+        "views": [
+          "top",
+          "underside",
+          "front",
+          "back",
+          "side",
+          "oblique",
+          "far"
+        ],
+        "closedEdges": true
+      },
+      {
+        "post": true,
+        "roofTriangles": 48,
+        "views": [
+          "top",
+          "underside",
+          "front",
+          "back",
+          "side",
+          "oblique",
+          "far"
+        ],
+        "closedEdges": true
+      }
+    ],
+    "collidersUnchanged": true
+  },
+  "landmarks": {
+    "PASS": true,
+    "testType": "Actual geometry/visibility/camera; DOM/WebGLRenderer stubbed",
+    "stats": {
+      "tramPre": 916,
+      "cityhall": {
+        "pre": 3266,
+        "post": 3108
+      },
+      "bunrika": {
+        "pre": 3110,
+        "post": 2976
+      },
+      "hiroden-senda": {
+        "pre": 2102,
+        "post": 2040
+      },
+      "tramPost": 840
+    },
+    "bypassViews": [
+      {
+        "x": 3.5,
+        "z": -55
+      },
+      {
+        "x": -0.25,
+        "z": -51
+      },
+      {
+        "x": 50,
+        "z": 38
+      },
+      {
+        "x": 5,
+        "z": -58
+      }
+    ],
+    "sharedMaterial": true,
+    "unchangedTramCollider": {
+      "x": 1.2,
+      "z": -55,
+      "w": 1.23,
+      "d": 3.1799999999999997,
+      "tram": true
+    },
+    "railDetails": 3
+  },
+  "preservation": {
+    "PASS": true,
+    "nonRoofGeometryAndCollidersAndMapAndNPCUnchanged": true,
+    "sha256": "59b5703a9e5b6a349584053099a378b78ad4c89257f0970f09d3eb85e98d8c19"
+  }
+}

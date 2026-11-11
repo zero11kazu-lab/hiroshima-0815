@@ -1,0 +1,14 @@
+{
+  "baseline": "4729ac1bdd487cbea1234d6aefea9a810f5a7c33",
+  "unchangedExistingSrcDataAssets": 54,
+  "changedExistingOnly": [
+    "src/important-people.js",
+    "src/npc.js"
+  ],
+  "NPCManagerUnchanged": true,
+  "damageClassifierUnchanged": true,
+  "MasamiAnimationUnchanged": true,
+  "endingJSUnchanged": true,
+  "kazuoModelUnchanged": true,
+  "newSource": "src/crowd-model.js"
+}

@@ -1,0 +1,405 @@
+{
+  "baseline": "07f37e60e8da2062cfdebe8e16a4fa0ec115f97f",
+  "colliders": "8f30c51f6f73391edfa2a4b1543653d474841eada478a5b92f9a45952e8c98de",
+  "map": "075773fd5f8298673139c0226e859cf8fe0ee8244796e8a7597a6626c0b40517",
+  "npc": "cf4b0856bc8730aa96f6ee456ecbbd5c486f96136d43ba4cd5fce690250d723b",
+  "pre": {
+    "central-0": "9d49b98456891908a0f13e52b0f806dcfc9106467893ae9ad0a15293a4b769fc",
+    "central-1": "2540a957cf9e6c242e87784c4facf0f0f547f5098a55d916edf1ee77795adbe8",
+    "central-2": "e6a1e4a3422e3baa899c3612cc3ac46216d6e2cc249440d82f8f9344d96ffb76",
+    "central-3": "6d2bcc7660340f519bfc2b5568204454cda1f29a0219c80bf19d17962010b814",
+    "central-4": "ea5f9c23c2fe4c02b5797523a65cdefc594920ce007dc48d7e85adec1a30f556",
+    "central-5": "45dfc1ccaf405aae4c0bd4adcdc092e02fad8f2ee0b644800db278d44ab41bc9",
+    "central-6": "44cf3fbda7edb9f99b7ffa962730527c597e0e0565b7e536d3c340e8ee60de50",
+    "central-7": "3a56f7d483b7c20de8fe5b6c238b17bfab3b955d0c76c78f15002159dda7e78c",
+    "central-8": "6c4b95cb9c6eee36dda80dc2773a81e4da27cbfd782e2f3bea050f31fa94d256",
+    "central-9": "68c24f207513a6c9a0720dd960025fffc7aff67702bfa9a52ead05b1fbaa295e",
+    "central-10": "8be1bbb54df0c151bc84c54137675be392f0d4e2f1b8d2123698933e3dc71ed1",
+    "central-11": "0f7c538763b8617b6ec8b163688c2d213316999ee7be798a87030b72831b0ef3",
+    "central-12": "9d49b98456891908a0f13e52b0f806dcfc9106467893ae9ad0a15293a4b769fc",
+    "central-13": "2540a957cf9e6c242e87784c4facf0f0f547f5098a55d916edf1ee77795adbe8",
+    "central-14": "e6a1e4a3422e3baa899c3612cc3ac46216d6e2cc249440d82f8f9344d96ffb76",
+    "central-15": "6d2bcc7660340f519bfc2b5568204454cda1f29a0219c80bf19d17962010b814",
+    "block-17": "fd18f6d82baf180aba1abadf2ab3aaf2a53d9473ce640d16c14790125dbdb3ae",
+    "block-18": "95f5c681fb107f8e3ef82d1d1d095aafef63bf2ec8a25faec7f819011bd9567d",
+    "block-19": "34fd8d2c38e59b191d28ec0832b6946e528910737794bba57204cbbe1dd697cd",
+    "block-21": "8979b8b3b927ebe6263f608ece601e0f520f7ac012b3487eca30c66a249660a0",
+    "block-22": "37a8b76a4b58724b212a8c733d5e8c13af3bf1336f83ce4d0e82cc19adafbd77",
+    "block-24": "94576ec0ec51a719517ffa87e1074572646da329482c4bf42223131bdbc2f026",
+    "block-25": "9ebae2693206ee303259683c7780078fc17f1c39dfcc7c7ff56ad1f680fb3946",
+    "block-26": "8a298f61c73a93a3350645bd46ac57e5095089cb4b5edc263e18385dd535a2e3",
+    "block-27": "6013fd32cd17e530834e91ef941e897f4c8d2ac7b8fcbd0ecd330bbe0fe70624",
+    "block-31": "f7d3b48c129bcd6566c4e1c88f37cf9e30e2737fe2dffc07363db514654e9cc2",
+    "block-32": "7c5231dea45ab6e2a101d60c3f661ab0d623b6e97358bb69d37404af4dc2af32",
+    "block-33": "0037bcc6a4b31266dc65ed4e2f508d8b763faff2d4b67ce3a9a11ceb09df3d14",
+    "block-34": "530b494928d66c3ecdf4cd55476fe63fded6ba70fbf7b59daad28ea7cc7b956b",
+    "block-38": "2803b546627fec17632290ab039e054d410dc02d3c465fdb8ae0681f5c051251",
+    "block-41": "c6237bc59553be808183bab091c6606cecea1d595ffec58153511dbf7893f22f",
+    "block-42": "49f7de148ccd5f5092c8c4aeadb508d8a41b83e082f4706603032f2d1cd2f3aa",
+    "block-43": "34fd8d2c38e59b191d28ec0832b6946e528910737794bba57204cbbe1dd697cd",
+    "block-44": "297b891ed03c4f747545bc60090024b9f67e8ab4866f074cd37f1c6301cb0c96",
+    "cityhall": "203eddd1fea937fc579c871bafeadbdc9bbed1401a32c954f18b5f03b129eef0",
+    "bunrika": "c66377d9dffb16de6609f49585992afe7f6a42caac2f51de85b8d06e20235fe2",
+    "hiroden-senda": "25384d4f0d026ecb7abe23f09b1e674a17b8c988abddd4a546e69680ac66e220",
+    "v11-building-00": "04710665ffbe4995e727e2aae816a641d63e3d1ac836a7da827852936bbc38f4",
+    "v11-building-01": "12cf73367525b7bb21fd0da224989b2113ad69564ecb0b0b3c008ffc712e54ec",
+    "v11-building-02": "399b6730b6396042799a25317931d3f154147d5ea3368e5eb3c8bbc455720d36",
+    "v11-building-03": "14351963e4ff6a00d6aea353f9b4ad4af9ead5d5bae7257d586852622a1a45b6",
+    "v11-building-04": "356ae7140a8c24a13de3b4a5f99607c4d668017b40d44f7f6b7962601268f4af",
+    "v11-building-05": "c45bd97bcc5f705c300bef8602cdbf73b634ce42496da1c45eb9ab1acc85642b",
+    "v11-building-06": "68f4a12f19431f4bea7dd7c492fed4ff68db2c79e4a0c8d753d9a661b08f9eb0",
+    "v11-building-07": "0758719173b56a0d5cd76540465b4f70ecdb75ed08a0734c38af9865e1ffe23e",
+    "v11-building-08": "bcbec91ff34e300c12752c6fe54f838dd9a2e7b9421481efa974a36807a88235",
+    "v11-building-09": "edc0716a98fd8cbd859e84f1d96e08c8b0774081b0862979b10355f8ed5e199b",
+    "v11-building-10": "ebc3c3038eb5254b707ccf808fa26a1e650d736f656dce5f21ca3679060aa344",
+    "v11-building-11": "fb7eb332943124881e4a25109b6594ab4cf4ad1e68f4c378aa591abd96212146",
+    "v11-building-12": "3677078dcf15a1042c59b7fc8d2835d654996ac6c8b4c405f4f2d709182d6599",
+    "v11-building-13": "af32432e41b9751b434393b275bf14d650c32aaf0732d9d69208ff0706925389",
+    "v11-building-14": "da94b2a8333fbea80ed0bcf7ebb56577f7ed5c71027d0d17ea9ec8a69ccaba54",
+    "v11-building-15": "14351963e4ff6a00d6aea353f9b4ad4af9ead5d5bae7257d586852622a1a45b6",
+    "v11-building-16": "356ae7140a8c24a13de3b4a5f99607c4d668017b40d44f7f6b7962601268f4af",
+    "v11-building-17": "6c181c15a270aa0c463137cff6c1f193518f56b25b5fd11143e924a914f08f24",
+    "v11-building-18": "32979e535bcdb0ee198a7d1a0dfd470ca24d545031739e4716c036bd09d832c3",
+    "v11-building-19": "0758719173b56a0d5cd76540465b4f70ecdb75ed08a0734c38af9865e1ffe23e",
+    "v11-building-20": "ae2c0a3b382274a264f8ba72e96ae3d59f8ece37ef206072a1e7e501788d6217",
+    "v11-building-21": "e2aecbdc0429108fd723358b11e7e617462da016e295ae2c7ae55d3e8b58aed0",
+    "v11-building-22": "e67c08413a5f312d56bc883db7686e1c153fe519045e9334bea2256a08fe542c",
+    "v11-building-23": "6018a2b41dd6e5ac616306a50d10bc8ac7b906cd1f59b03a2fbf5ab426bac6e1",
+    "v11-building-24": "3677078dcf15a1042c59b7fc8d2835d654996ac6c8b4c405f4f2d709182d6599",
+    "v11-building-25": "bbc918aecabbcd3812722d156c0409b2a62af4022dc787343b604af29ee2bc63",
+    "v11-building-26": "01fc2c7464ae03e14e602a8b9379662f187107a00c3a24d27a3b9db226d152f7",
+    "v11-building-27": "8dcf464ddca8d112e61c9627b22b9ead2fbc13a04e80ca98a7463ceb2964bc3d",
+    "v11-building-28": "85d972487416909cd16e81603102bbf4f2c54f39b1e22b4ec138b20e7a05526f",
+    "v11-building-29": "cd6ffd59a61e7e05110e624d7600280ea90b74eea1f33f442f5b6d1156d1556e",
+    "v11-building-30": "1d518b20954e86fce64a3d66121e1c685c453c09d73cd4bc950c6a9dec371599",
+    "v11-building-31": "f76999af880eda61d45c0ac7a551e5f83a6485a151a79135d3ad4ffc3e0b896d",
+    "v11-building-32": "bcbec91ff34e300c12752c6fe54f838dd9a2e7b9421481efa974a36807a88235",
+    "v11-building-33": "edc0716a98fd8cbd859e84f1d96e08c8b0774081b0862979b10355f8ed5e199b",
+    "v11-building-34": "70f90742263041276797ca1fe7098b6a4a223020f7ad3e578e469c60ccfccedd",
+    "v11-building-35": "93f9b67fc80ae825c58609c77628c2c49c7e411b3aad7b41c3dc52495ebcec89",
+    "v11-building-36": "04710665ffbe4995e727e2aae816a641d63e3d1ac836a7da827852936bbc38f4",
+    "v11-building-37": "12cf73367525b7bb21fd0da224989b2113ad69564ecb0b0b3c008ffc712e54ec",
+    "v11-building-38": "399b6730b6396042799a25317931d3f154147d5ea3368e5eb3c8bbc455720d36",
+    "v11-building-39": "20ded1bcbd052ff0263366b90509c30dfdd0232e54202a8250f05873add7bd36",
+    "v11-building-40": "356ae7140a8c24a13de3b4a5f99607c4d668017b40d44f7f6b7962601268f4af",
+    "v11-building-41": "545cacb9b9db1bd76ac0dfdb6346290a621a0b414accd73f048bf974fdb55085"
+  },
+  "post": {
+    "central-0": {
+      "damage": "DESTROYED",
+      "hash": "8136fdadf09fef0a861739b2bb190adbba55b70b917610c4fe6d587a99f791f5"
+    },
+    "central-1": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "9af6861e8d8ec02b0ba55cf3a4bacc4bd252e9ec372d7ff49414ef88f23406ef"
+    },
+    "central-2": {
+      "damage": "COLLAPSED",
+      "hash": "a6fddf5a50aef02eca81b7eec25f801cbd1a90686fe2c71d0df6b53efda9bb90"
+    },
+    "central-3": {
+      "damage": "COLLAPSED",
+      "hash": "169c9ec14e79150bb2bdac0b97af6f4a1538b8411709dcaccab5601141ac0e62"
+    },
+    "central-4": {
+      "damage": "COLLAPSED",
+      "hash": "ae0ba64f10ae3c16fd7c8f2e3ee8c29f2690a16657e0fc7f4be05cc0c270e649"
+    },
+    "central-5": {
+      "damage": "COLLAPSED",
+      "hash": "ce564442fbc91e9ca8c1f23b616a86f492ed552e233fb9c61b744303857a3183"
+    },
+    "central-6": {
+      "damage": "COLLAPSED",
+      "hash": "d5e18aa0fd646f5fddc84ddfa3072f12f50e38e27b485f1e63260087f1009728"
+    },
+    "central-7": {
+      "damage": "DAMAGED",
+      "hash": "3878b08373ec062b93ff4c26e8c83908d750a49857393eb7fd0e9ec7b326952e"
+    },
+    "central-8": {
+      "damage": "COLLAPSED",
+      "hash": "ab338d4974749840830c7f228c199db4d77f1206269caba06ca35b644eab84e2"
+    },
+    "central-9": {
+      "damage": "DESTROYED",
+      "hash": "753be326e87952731679fbd8c2719ead5a267b78365fd3eb507912c0723aeafd"
+    },
+    "central-10": {
+      "damage": "COLLAPSED",
+      "hash": "a87c8d83ab7c462068e8c0d3d8052837e5a14f61ff347378325ee663aec7fd79"
+    },
+    "central-11": {
+      "damage": "DESTROYED",
+      "hash": "eae3e655ec4416f788ecda7c3bd8ba906d21801e20b4ccf5eaf43f5d5c9ef304"
+    },
+    "central-12": {
+      "damage": "DESTROYED",
+      "hash": "fa3bc3417f7dd4df3e938475e2ff8802b592897927f4679237242d6d85ca2f49"
+    },
+    "central-13": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "34e8a73cb264e942c13195069a2f05cf8c3f833387b52ce49acfabdeaf02102c"
+    },
+    "central-14": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "4a1368f61463f8685add2410ed842f7fc3ed7ec9b64cd663ab5019bf28b28849"
+    },
+    "central-15": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "e7841ee251de8e0f7cb19089995a51a4c318154536a6ce77549906a5f4a6122a"
+    },
+    "block-17": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "878698e94c16cd2680e30f7f5c5de2a06e5189839d47a7006f956d13d178e6da"
+    },
+    "block-18": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "422589e0e2eb97540bd3ab91dc5bd947a2740651d413699709323632635b9168"
+    },
+    "block-19": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "bb442563082fc434748278e81b2d1864eb56435b52029a664a3e1ff018049719"
+    },
+    "block-21": {
+      "damage": "DAMAGED",
+      "hash": "b91a3826f8058a706e924be3cb18b14797aa39bfe1d7c601ed5220d335b1fdf7"
+    },
+    "block-22": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "f09f540ab091cdb12759ab9124d3844c370d441dea8c37fa596866aed6323350"
+    },
+    "block-24": {
+      "damage": "DESTROYED",
+      "hash": "43ea5578a9b0efe7e817743cbaeeb66bde865e60e72f959ebb35d6669cbbf4af"
+    },
+    "block-25": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "d019bd651c04c5213e3b9cbfe67f6ff19062562372d43f40a3bc32b165ed315e"
+    },
+    "block-26": {
+      "damage": "DESTROYED",
+      "hash": "6db5181dc4ab4412c5faaddfa56c5a3030c7fc96b15170945f4aa430cfa330e6"
+    },
+    "block-27": {
+      "damage": "COLLAPSED",
+      "hash": "560d244ba942b58cee0ffa53e64fc859155566d4b62088a2f3805a849e34ed12"
+    },
+    "block-31": {
+      "damage": "DESTROYED",
+      "hash": "4964e4f7f94588fbab990fb068918337b42188217c5aa10e04527770271fb644"
+    },
+    "block-32": {
+      "damage": "COLLAPSED",
+      "hash": "139bdaac0a701f4a9305e5904a8e3b0974eed4a27475455363c90dd497ac48d1"
+    },
+    "block-33": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "5ba30e3a9487ac17c1241c1d3ca438a5ab7d44219ddcb524a4e2ffee3fc01b37"
+    },
+    "block-34": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "c4892c0ea59078b3667a7775599c982eb78338e259687cbddfce89bb55188256"
+    },
+    "block-38": {
+      "damage": "DESTROYED",
+      "hash": "7f2f7ff05bfc5be9d188671fb57692b50e3af0e8f05b3c9bdb9582e96bf4a9fa"
+    },
+    "block-41": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "d0fa051bff110d336aecc811518c42fa306ce9cd406f6a7285a50b452bd7e3d9"
+    },
+    "block-42": {
+      "damage": "DESTROYED",
+      "hash": "dc526b626561ae4a75fe3d34eeb36dba7c022b489462d28c09080cdd47b5abf5"
+    },
+    "block-43": {
+      "damage": "DESTROYED",
+      "hash": "62d26839f0b7f3dccb3ec25f85b48225dccaa70a0caca6e1c2f0f834a44b1918"
+    },
+    "block-44": {
+      "damage": "COLLAPSED",
+      "hash": "9514eaf2ef006c14e3b5f234415af58331a9d4a935a4f37d8f9376d48666b13c"
+    },
+    "cityhall": {
+      "damage": "DAMAGED",
+      "hash": "dffb6d948601dd164baa0a981b8d251714c94837ca8b4317dbd1dd1068378006"
+    },
+    "bunrika": {
+      "damage": "DAMAGED",
+      "hash": "4ecc3e36067f0ccb315211000b327ab1dd22d03416c101de680942906aed4a46"
+    },
+    "hiroden-senda": {
+      "damage": "DAMAGED",
+      "hash": "13fe83148f5426ee69f7fb9d6a44b74525d705b3b7549ebca1cb0d016e67c70f"
+    },
+    "v11-building-00": {
+      "damage": "DESTROYED",
+      "hash": "dd1d6c50f039aa330dc1d700f09069165a542f20e818c40620fddb226cae5f65"
+    },
+    "v11-building-01": {
+      "damage": "DESTROYED",
+      "hash": "240a405c940a6f3081c6ef92565903e873bb863097f726a7402807af5ff560a8"
+    },
+    "v11-building-02": {
+      "damage": "DESTROYED",
+      "hash": "8f58758a836605f022f5e9f13c7eae681c320e0e8f238e61c3a5bfda68b1f375"
+    },
+    "v11-building-03": {
+      "damage": "DESTROYED",
+      "hash": "ffd970a28cc44d046f388d38673d3e82738cfc37639a207456766c576ae2f803"
+    },
+    "v11-building-04": {
+      "damage": "DESTROYED",
+      "hash": "46697f9d33af3fbd1176def896ee79bda1a6660ccc48030c93659308012e58b5"
+    },
+    "v11-building-05": {
+      "damage": "COLLAPSED",
+      "hash": "f48f0d02e7dab43dbdd731cf4acd944465b010aa7ce11fc917227f94bde9e763"
+    },
+    "v11-building-06": {
+      "damage": "DESTROYED",
+      "hash": "19ace528fb216098c391bf68b1b0d6a654024aede2f1a2d724163cade44ac608"
+    },
+    "v11-building-07": {
+      "damage": "DAMAGED",
+      "hash": "ca274389b0cee8e3764151f89e4361ad8d798ee2e85c10f5f41c94de0c9f4daa"
+    },
+    "v11-building-08": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "9d25de801612e905a356154d1ad9fb5c8897099bf4b9995fe3b2c655f5dfe3fe"
+    },
+    "v11-building-09": {
+      "damage": "DAMAGED",
+      "hash": "8490f3b7c6d41ac669759481d10904552204170023549925cc7fc3b962e27c61"
+    },
+    "v11-building-10": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "1c35dd86c67f6a70d7293c827d887c41d43dad476083794f18884db3eaa0205c"
+    },
+    "v11-building-11": {
+      "damage": "COLLAPSED",
+      "hash": "0c698d809f20036d4d91e147409c61b472bdcd67178c2a20a6c37929f5f4cf31"
+    },
+    "v11-building-12": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "92e019e2e8eebf48828adeed44b621a9898b3f617d80711a422726546d2fb7b8"
+    },
+    "v11-building-13": {
+      "damage": "COLLAPSED",
+      "hash": "7cd374cc455fd097cab9120802fb403fa2abc2ed59dc3c7ca5a3c13c3b35f103"
+    },
+    "v11-building-14": {
+      "damage": "DAMAGED",
+      "hash": "479d9250299b272624cf2f1a755d0040535271ffbdea34b48f76b5d1c19cbc2e"
+    },
+    "v11-building-15": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "d83c2dd3c7c1654e1b4feef4871ec8aec088afc2b76e4f2d60d1c6b36ed72f79"
+    },
+    "v11-building-16": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "6dd103700f3c03ba03b74f01b923aae8b29b6101e1f299f824b032751ed5f731"
+    },
+    "v11-building-17": {
+      "damage": "DAMAGED",
+      "hash": "28053074a8694993e2b8406a2e7538600210244a7e69d970423f49a7036aa08a"
+    },
+    "v11-building-18": {
+      "damage": "COLLAPSED",
+      "hash": "acf5300fc51a32f854b4e6d00c612ef44ec722632b3aebe76349023bb61a136f"
+    },
+    "v11-building-19": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "2b2569776bbfd776cecd7b6c56273662bd5dcb440ef77571920b0f12077c42d3"
+    },
+    "v11-building-20": {
+      "damage": "COLLAPSED",
+      "hash": "8889597847c9cb5093f79398ca87aa45581e241a70f6dcc2b65f74cd937fdf93"
+    },
+    "v11-building-21": {
+      "damage": "COLLAPSED",
+      "hash": "2b873e8361a479a638785b0bfa5957d93842fba1b91a6be3851490958df57636"
+    },
+    "v11-building-22": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "37da12b71f83def15b830508e037aebf61bbc8690e1d6aa1a5887e91fde3ac59"
+    },
+    "v11-building-23": {
+      "damage": "COLLAPSED",
+      "hash": "623375e84fcc7c7c18398a6415cd075ebe92212bfa2d5b7b7f8b414015c4f74d"
+    },
+    "v11-building-24": {
+      "damage": "DESTROYED",
+      "hash": "a3b1fafb6c48af55559e381ac0ed9799623272c5e12907d3519b3788fc2bd780"
+    },
+    "v11-building-25": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "05c51033d705d0d3d3b200878d3ccccbba2ad76454992b0b3c67a6716a35ba0d"
+    },
+    "v11-building-26": {
+      "damage": "COLLAPSED",
+      "hash": "a08926631a3c0d189b2255a243db27533b1ec77537b8100a98ed3c75c621f9ca"
+    },
+    "v11-building-27": {
+      "damage": "DAMAGED",
+      "hash": "61684767ec75a5d9313afe7781c3356b71b60c75c969d27898409ffd722d6fc6"
+    },
+    "v11-building-28": {
+      "damage": "COLLAPSED",
+      "hash": "8acb7f2837c2bdcdf07408a56a7b083dabc86e718ead8f9e4c8a171e6e003337"
+    },
+    "v11-building-29": {
+      "damage": "COLLAPSED",
+      "hash": "3d7dfc00177f4b57509d2c96c92a35978899469b74fa376580338769dcf1993d"
+    },
+    "v11-building-30": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "5e2f46e350161e57b8654a65b9469ba57c391e0e72ddac8d7f64a97eb3b60322"
+    },
+    "v11-building-31": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "5987fda9407aa0604b85e4b2e528f0d4222b4a8fa094ce3aaf727158e6086ab4"
+    },
+    "v11-building-32": {
+      "damage": "COLLAPSED",
+      "hash": "0329bdc1bab2dfc0a3b518ad6c06c05ac6acd474ee7e59085286315cb0d380e4"
+    },
+    "v11-building-33": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "a38d352e273608aabb6e73e2e67f12808e578ab20e71dadc49d33332b5efabcb"
+    },
+    "v11-building-34": {
+      "damage": "DAMAGED",
+      "hash": "7e9763e0c1aaecdb1c9b08bc0350d0192b6c08281bc919b62f792c000d8e1006"
+    },
+    "v11-building-35": {
+      "damage": "COLLAPSED",
+      "hash": "201cb5b8f083dcbca5e2c4ba537ddfb1c02cfc9823c9d3e10d9c1349ba20a572"
+    },
+    "v11-building-36": {
+      "damage": "DAMAGED",
+      "hash": "d33eb419876495c623e4bded89ea9603a3dfb33a594973afffc31828c4e1976a"
+    },
+    "v11-building-37": {
+      "damage": "COLLAPSED",
+      "hash": "e50f0c037783aefe970b0bfcb82e3cd27a097851e2b8cbbb7d703f248ad8f42a"
+    },
+    "v11-building-38": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "58cad16504110c8e74a383c32a5e40b651b2c6fd3bfcf458b3a280ff36cbee43"
+    },
+    "v11-building-39": {
+      "damage": "INTACT",
+      "hash": "b5cd51b141f4f0008ec60eed16b625793a625f906599f41caf8b546644dd16d1"
+    },
+    "v11-building-40": {
+      "damage": "HEAVILY_DAMAGED",
+      "hash": "979d29979e68264a41c4990fa82800968cd11986886cde3f71eae946e00aee3d"
+    },
+    "v11-building-41": {
+      "damage": "DAMAGED",
+      "hash": "942e5657291d6024756078d1e153593264385aaef45db0fc61e331f0a4b7f5c3"
+    }
+  }
+}

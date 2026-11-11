@@ -1,0 +1,14 @@
+{
+  "gameVersion": "1.4",
+  "runtime": {
+    "three": {"revision": "160", "path": "src/vendor/three.min.js", "license": "MIT", "networkRequired": false},
+    "browser": ["WebGL", "Web Audio", "Canvas", "Pointer/Touch Events"],
+    "modelsAndTextures": "Procedurally generated in local game JavaScript/Canvas; included background images",
+    "audio": "Procedurally generated in local game JavaScript/Web Audio",
+    "fonts": "Browser/OS fonts specified in inline CSS",
+    "requiredExternalServices": []
+  },
+  "build": {"command": "python3 build.py", "dependencies": "Python 3 standard library"},
+  "optionalTests": {"runtime": "Node.js", "npmInstallRequired": false},
+  "deployment": {"staticDirectory": "dist", "personalCredentialsIncluded": false, "cloudflareConfigurationVerified": false}
+}

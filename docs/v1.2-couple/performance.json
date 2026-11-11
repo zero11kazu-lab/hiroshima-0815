@@ -1,0 +1,52 @@
+[
+  {
+    "key": "BEFORE",
+    "initMs": 1104.6000000014901,
+    "pre": {
+      "renderMs": 8.729999999981374,
+      "calls": 282,
+      "triangles": 23804,
+      "geometries": 209,
+      "textures": 14
+    },
+    "post": {
+      "renderMs": 7.025,
+      "calls": 294,
+      "triangles": 20242,
+      "geometries": 390,
+      "textures": 26
+    },
+    "room": {
+      "renderMs": 1.3575000000186264,
+      "calls": 87,
+      "triangles": 12602,
+      "geometries": 390,
+      "textures": 29
+    }
+  },
+  {
+    "key": "AFTER",
+    "initMs": 706.3000000007451,
+    "pre": {
+      "renderMs": 8.977500000037253,
+      "calls": 282,
+      "triangles": 23804,
+      "geometries": 209,
+      "textures": 14
+    },
+    "post": {
+      "renderMs": 6.4575000000186265,
+      "calls": 294,
+      "triangles": 20084,
+      "geometries": 390,
+      "textures": 26
+    },
+    "room": {
+      "renderMs": 2.072499999962747,
+      "calls": 84,
+      "triangles": 12388,
+      "geometries": 390,
+      "textures": 29
+    }
+  }
+]

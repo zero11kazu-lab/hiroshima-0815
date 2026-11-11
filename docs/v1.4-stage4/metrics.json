@@ -1,0 +1,115 @@
+{
+  "note": "All detail meshes enabled, geometry arrays only. Potential batches, not actual GPU draw calls/FPS. Props share geometry across instances; textures not included in geometryBytes.",
+  "before": {
+    "preBuildings": {
+      "meshes": 286,
+      "triangles": 56464,
+      "geometryBytes": 6501012,
+      "materials": 30,
+      "uniqueGeometries": 258
+    },
+    "preProps": {
+      "meshes": 0,
+      "triangles": 0,
+      "geometryBytes": 0,
+      "materials": 0,
+      "uniqueGeometries": 0
+    },
+    "postBuildings": {
+      "meshes": 239,
+      "triangles": 29500,
+      "geometryBytes": 3821688,
+      "materials": 5,
+      "uniqueGeometries": 238
+    },
+    "postProps": {
+      "meshes": 0,
+      "triangles": 0,
+      "geometryBytes": 0,
+      "materials": 0,
+      "uniqueGeometries": 0
+    },
+    "postShadowVisible": false,
+    "ground": {
+      "type": "MeshLambertMaterial",
+      "reflectivity": 1,
+      "envMap": false,
+      "normalMap": false,
+      "textureSize": [
+        128,
+        128
+      ]
+    },
+    "ambientMix": {
+      "preWind": 0.12,
+      "aircraft": 0.075,
+      "postWind": 0.27,
+      "postFire": 0.5,
+      "voiceMax": 0.16,
+      "voiceBase": 0.025,
+      "voicePerPerson": 0.024,
+      "water": 0.3,
+      "breath": 0.35,
+      "bird": 0.1,
+      "stepPre": 0.16,
+      "stepPost": 0.24,
+      "collapse": 0.2
+    }
+  },
+  "after": {
+    "preBuildings": {
+      "meshes": 286,
+      "triangles": 56464,
+      "geometryBytes": 6501012,
+      "materials": 30,
+      "uniqueGeometries": 258
+    },
+    "preProps": {
+      "meshes": 18,
+      "triangles": 1260,
+      "geometryBytes": 55440,
+      "materials": 1,
+      "uniqueGeometries": 6
+    },
+    "postBuildings": {
+      "meshes": 239,
+      "triangles": 28740,
+      "geometryBytes": 3721368,
+      "materials": 6,
+      "uniqueGeometries": 238
+    },
+    "postProps": {
+      "meshes": 18,
+      "triangles": 1098,
+      "geometryBytes": 48312,
+      "materials": 1,
+      "uniqueGeometries": 6
+    },
+    "postShadowVisible": false,
+    "ground": {
+      "type": "MeshLambertMaterial",
+      "reflectivity": 0,
+      "envMap": false,
+      "normalMap": false,
+      "textureSize": [
+        256,
+        256
+      ]
+    },
+    "ambientMix": {
+      "preWind": 0.11,
+      "aircraft": 0.075,
+      "postWind": 0.25,
+      "postFire": 0.5,
+      "voiceMax": 0.16,
+      "voiceBase": 0.025,
+      "voicePerPerson": 0.024,
+      "water": 0.3,
+      "breath": 0.35,
+      "bird": 0.085,
+      "stepPre": 0.16,
+      "stepPost": 0.24,
+      "collapse": 0.2
+    }
+  }
+}

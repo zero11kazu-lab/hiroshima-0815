@@ -1,0 +1,60 @@
+{
+  "confidence": "gameplay_adjusted",
+  "note": "史料の距離傾向を参考にした確率分布。個別建物の実被害・火災時刻を表さない。公共RC建築は残存外殻を優先。",
+  "sourceIds": [
+    "S03",
+    "S04",
+    "S07",
+    "S12",
+    "S21"
+  ],
+  "nearDistance": 1500,
+  "middleDistance": 2000,
+  "near": {
+    "destroyed": 0.65,
+    "collapsed": 0.93,
+    "heavy": 1,
+    "damaged": 1
+  },
+  "middle": {
+    "destroyed": 0.33,
+    "collapsed": 0.73,
+    "heavy": 0.94,
+    "damaged": 1
+  },
+  "far": {
+    "destroyed": 0.1,
+    "collapsed": 0.32,
+    "heavy": 0.64,
+    "damaged": 0.96
+  },
+  "visuals": {
+    "version": "1.4-stage3",
+    "confidence": "gameplay_adjusted",
+    "sourceIds": [
+      "S03",
+      "S04",
+      "S07",
+      "S12",
+      "S21"
+    ],
+    "note": "既存の被害分布は変更しない。個別の破断・瓦礫・煤は創作。低い瓦礫は通行を妨げず、背の高い残存構造は既存collider内に限定。",
+    "detailDistance": 34,
+    "lowClutterTop": 0.28,
+    "fragmentCounts": {
+      "DESTROYED": 14,
+      "COLLAPSED": 22,
+      "HEAVILY_DAMAGED": 18,
+      "DAMAGED": 12,
+      "INTACT": 12
+    },
+    "waterSource": {
+      "type": "broken_residential_supply_pipe",
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S11"
+      ],
+      "note": "既存の破損住宅給水管設定を維持。位置・流出・取水は物語上の創作であり、飲用安全性を保証しない。"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+RUN {
+  distance: 2.8999999999999204,
+  stamina: 100,
+  running: false,
+  inputId: 3,
+  held: false
+} {
+  distance: 5.510000000000019,
+  stamina: 84.00000000000006,
+  running: true,
+  inputId: 4,
+  held: true
+}
+THERMAL {
+  finalHeat: 97.7823112053935,
+  heat3: 0,
+  seconds: 2.8666666666666667,
+  hp: 0,
+  sample: {
+    heat: 100,
+    smoke: 0.33775417775128813,
+    contact: 0.456923076923077,
+    rubble: 0,
+    zones: [ 'historical-stage-fire-0', 'street-extra-4', 'street-extra-7' ]
+  }
+}
+{"PASS":true,"morning":{"peak":0.08560545742511749,"rms":0.031156260877945693},"aircraft":{"peak":0.2705044746398926,"rms":0.1015107289106297},"pan":[-0.85,0.8358333333333333],"walk":{"distance":2.8999999999999204,"stamina":100,"running":false,"inputId":3,"held":false},"runState":{"distance":5.510000000000019,"stamina":84.00000000000006,"running":true,"inputId":4,"held":true},"ratio":1.9000000000000588,"zero":{"running":false,"exhausted":true},"thermal":{"finalHeat":97.7823112053935,"heat3":0,"seconds":2.8666666666666667,"hp":0,"sample":{"heat":100,"smoke":0.33775417775128813,"contact":0.456923076923077,"rubble":0,"zones":["historical-stage-fire-0","street-extra-4","street-extra-7"]}},"errors":[]}

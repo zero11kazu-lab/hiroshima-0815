@@ -1,0 +1,54 @@
+{
+  "v11": {
+    "pre": {
+      "medianMs": 1.2999999998137355,
+      "p95Ms": 5.7999999998137355,
+      "calls": 179,
+      "triangles": 17124,
+      "textures": 16,
+      "geometries": 273
+    },
+    "post": {
+      "medianMs": 1.5,
+      "p95Ms": 9.699999999254942,
+      "calls": 219,
+      "triangles": 17754,
+      "textures": 28,
+      "geometries": 382
+    },
+    "postGenerationMs": 5273.799999999814,
+    "people": 29,
+    "fire": 46,
+    "smoke": 48,
+    "routeGraph": null
+  },
+  "v12": {
+    "pre": {
+      "medianMs": 0.7999999998137355,
+      "p95Ms": 5.5,
+      "calls": 179,
+      "triangles": 17124,
+      "textures": 16,
+      "geometries": 273
+    },
+    "post": {
+      "medianMs": 1.099999999627471,
+      "p95Ms": 1.7000000001862645,
+      "calls": 212,
+      "triangles": 17582,
+      "textures": 28,
+      "geometries": 384
+    },
+    "postGenerationMs": 4483.5999999996275,
+    "people": 29,
+    "fire": 46,
+    "smoke": 48,
+    "routeGraph": {
+      "nodes": 6396,
+      "trees": 25,
+      "routeCache": 391,
+      "compatibility": 266
+    }
+  },
+  "iphonePhysical": false
+}

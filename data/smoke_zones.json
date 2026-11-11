@@ -1,0 +1,24 @@
+[
+  {
+    "id": "smoke-crossing",
+    "center": {
+      "x": 14,
+      "z": 0
+    },
+    "radius": 7,
+    "level": "HEAVY",
+    "density": 0.9,
+    "confidence": "gameplay_adjusted"
+  },
+  {
+    "id": "smoke-north",
+    "center": {
+      "x": -34,
+      "z": -35
+    },
+    "radius": 6,
+    "level": "MEDIUM",
+    "density": 0.65,
+    "confidence": "gameplay_adjusted"
+  }
+]

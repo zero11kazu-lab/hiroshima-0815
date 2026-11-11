@@ -1,0 +1,161 @@
+{
+  "PASS": true,
+  "trips": [
+    {
+      "target": {
+        "x": 0,
+        "z": -77
+      },
+      "routePoints": 62,
+      "seconds": 43.733333333333334,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": 35
+      },
+      "routePoints": 61,
+      "seconds": 42.6,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": 78
+      },
+      "routePoints": 24,
+      "seconds": 15.966666666666667,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": 35
+      },
+      "routePoints": 24,
+      "seconds": 15.433333333333334,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 86,
+        "z": 45
+      },
+      "routePoints": 51,
+      "seconds": 36.9,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 86,
+        "z": -59
+      },
+      "routePoints": 54,
+      "seconds": 37.63333333333333,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 86,
+        "z": 74
+      },
+      "routePoints": 68,
+      "seconds": 48.3,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": 35
+      },
+      "routePoints": 65,
+      "seconds": 45.06666666666667,
+      "hp": 100,
+      "maxHeat": 0
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": 78
+      },
+      "routePoints": 24,
+      "seconds": 16.033333333333335,
+      "hp": 100,
+      "maxHeat": 0
+    }
+  ],
+  "postTrips": [
+    {
+      "target": {
+        "x": 0,
+        "z": 54
+      },
+      "routePoints": 15,
+      "seconds": 9.7,
+      "hp": 99.7690739465203,
+      "maxHeat": 3.592882192498834
+    },
+    {
+      "target": {
+        "x": 86,
+        "z": 45
+      },
+      "routePoints": 54,
+      "seconds": 37.36666666666667,
+      "hp": 99.7690739465203,
+      "maxHeat": 0.3248182515541753
+    },
+    {
+      "target": {
+        "x": 86,
+        "z": 74
+      },
+      "routePoints": 17,
+      "seconds": 10.966666666666667,
+      "hp": 99.7690739465203,
+      "maxHeat": 2.8895163769107404
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": 54
+      },
+      "routePoints": 69,
+      "seconds": 47.63333333333333,
+      "hp": 98.25747944152248,
+      "maxHeat": 12.408133985931729
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": -77
+      },
+      "routePoints": 85,
+      "seconds": 58.6,
+      "hp": 86.00559982525881,
+      "maxHeat": 45.3856886028912
+    },
+    {
+      "target": {
+        "x": 0,
+        "z": 54
+      },
+      "routePoints": 85,
+      "seconds": 59.63333333333333,
+      "hp": 82.63615636307918,
+      "maxHeat": 46.24570397354756
+    }
+  ],
+  "damage": 28.787096276073214,
+  "smokeDamage": 4.4002200000000045,
+  "buildings": 79,
+  "npcs": 29
+}

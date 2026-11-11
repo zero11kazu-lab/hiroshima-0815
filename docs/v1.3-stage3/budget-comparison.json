@@ -1,0 +1,33 @@
+{
+  "note": "CPU scene submission structure. Includes zero-scale legacy slots before. Not GPU/FPS measurements. Near/far synthetic positions; no map edits.",
+  "before": {
+    "start": {
+      "drawBatches": 19,
+      "submittedTriangles": 13670
+    },
+    "all29Near": {
+      "drawBatches": 27,
+      "submittedTriangles": 26384
+    },
+    "all29Far": {
+      "drawBatches": 8,
+      "submittedTriangles": 11360
+    },
+    "renderBatchTypes": 28
+  },
+  "after": {
+    "start": {
+      "drawBatches": 28,
+      "submittedTriangles": 8438
+    },
+    "all29Near": {
+      "drawBatches": 46,
+      "submittedTriangles": 42860
+    },
+    "all29Far": {
+      "drawBatches": 7,
+      "submittedTriangles": 5916
+    },
+    "renderBatchTypes": 72
+  }
+}

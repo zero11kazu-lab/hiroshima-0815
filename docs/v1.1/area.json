@@ -1,0 +1,117 @@
+{
+  "pre": {
+    "step": 0.5,
+    "landAndBridgeArea": 22859,
+    "collisionFreeArea": 19100.75,
+    "connectedArea": 19100.75
+  },
+  "oldPre": {
+    "step": 0.5,
+    "landAndBridgeArea": 11145.25,
+    "collisionFreeArea": 9396.25,
+    "connectedArea": 9396.25
+  },
+  "postSamples": [
+    {
+      "before": {
+        "step": 0.5,
+        "landAndBridgeArea": 11145.25,
+        "collisionFreeArea": 10124.75,
+        "connectedArea": 10124.5
+      },
+      "after": {
+        "step": 0.5,
+        "landAndBridgeArea": 22859,
+        "collisionFreeArea": 21116.25,
+        "connectedArea": 21116
+      },
+      "ratio": 2.0856338584621463
+    },
+    {
+      "before": {
+        "step": 0.5,
+        "landAndBridgeArea": 11145.25,
+        "collisionFreeArea": 10123.25,
+        "connectedArea": 10123
+      },
+      "after": {
+        "step": 0.5,
+        "landAndBridgeArea": 22859,
+        "collisionFreeArea": 21114.75,
+        "connectedArea": 21114.5
+      },
+      "ratio": 2.0857947248839275
+    },
+    {
+      "before": {
+        "step": 0.5,
+        "landAndBridgeArea": 11145.25,
+        "collisionFreeArea": 10122.75,
+        "connectedArea": 10122.5
+      },
+      "after": {
+        "step": 0.5,
+        "landAndBridgeArea": 22859,
+        "collisionFreeArea": 21114.25,
+        "connectedArea": 21114
+      },
+      "ratio": 2.0858483576191653
+    }
+  ],
+  "views": [
+    {
+      "point": {
+        "x": 0,
+        "z": 35
+      },
+      "calls": 277,
+      "triangles": 23230,
+      "textures": 15,
+      "geometries": 211
+    },
+    {
+      "point": {
+        "x": 0,
+        "z": 10
+      },
+      "calls": 225,
+      "triangles": 21372,
+      "textures": 20,
+      "geometries": 302
+    },
+    {
+      "point": {
+        "x": 26,
+        "z": -22
+      },
+      "calls": 120,
+      "triangles": 16316,
+      "textures": 21,
+      "geometries": 346
+    }
+  ],
+  "npcs": 29,
+  "buildings": 79,
+  "fire": 46,
+  "smoke": 48,
+  "postMission": {
+    "mission1Set": "m1-1",
+    "mission2Set": "m2-0",
+    "mother": {
+      "x": 6,
+      "z": 24
+    },
+    "child": {
+      "x": -24,
+      "z": 6
+    },
+    "man": {
+      "x": 18,
+      "z": 42
+    },
+    "water": {
+      "x": -24,
+      "z": -42
+    }
+  }
+}

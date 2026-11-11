@@ -1,0 +1,14 @@
+{
+  "existingFilesChanged": [
+    "src/ambient-audio.js",
+    "src/post-visuals-v14.js",
+    "src/world.js",
+    "src/aftermath.js"
+  ],
+  "allExistingDataAndAssetsUnchanged": true,
+  "charactersMissionsControlsTitleEndingSourcesUnchanged": true,
+  "newColliders": 0,
+  "newNPCs": 0,
+  "newLights": 0,
+  "newAudioContextsOrSources": 0
+}

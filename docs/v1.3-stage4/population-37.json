@@ -1,0 +1,126 @@
+{
+  "npcs": 37,
+  "added": [
+    {
+      "id": "v13-east-01",
+      "side": "E",
+      "position": {
+        "x": 86,
+        "z": -59.5
+      }
+    },
+    {
+      "id": "v13-east-02",
+      "side": "E",
+      "position": {
+        "x": 86,
+        "z": -19.4
+      }
+    },
+    {
+      "id": "v13-west-01",
+      "side": "W",
+      "position": {
+        "x": -26,
+        "z": -71
+      }
+    },
+    {
+      "id": "v13-east-03",
+      "side": "E",
+      "position": {
+        "x": 86,
+        "z": 14
+      }
+    },
+    {
+      "id": "v13-west-02",
+      "side": "W",
+      "position": {
+        "x": 2,
+        "z": 57
+      }
+    },
+    {
+      "id": "v13-east-04",
+      "side": "E",
+      "position": {
+        "x": 86,
+        "z": 51.74
+      }
+    },
+    {
+      "id": "v13-east-05",
+      "side": "E",
+      "position": {
+        "x": 97.28,
+        "z": -37
+      }
+    },
+    {
+      "id": "v13-east-06",
+      "side": "E",
+      "position": {
+        "x": 74,
+        "z": 38
+      }
+    }
+  ],
+  "travel": {
+    "v13-east-01": 39.88800000000151,
+    "v13-east-02": 38.568668355725436,
+    "v13-west-01": 33.022000000002265,
+    "v13-east-03": 37.55350000000014,
+    "v13-west-02": 40.05585870100862,
+    "v13-east-04": 39.54814867902069,
+    "v13-east-05": 36.259499999993906,
+    "v13-east-06": 36.49333333332872
+  },
+  "metrics": {
+    "batches": 18,
+    "triangles": 6236
+  },
+  "desktopCPUMsFor60SimSeconds": 1325.758123,
+  "post": [
+    {
+      "id": "v13-east-01",
+      "state": "SEARCHING",
+      "appearance": "BURN_PARTIAL"
+    },
+    {
+      "id": "v13-east-02",
+      "state": "DOWN",
+      "appearance": "CHARRED"
+    },
+    {
+      "id": "v13-west-01",
+      "state": "DISORIENTED",
+      "appearance": "BURN_PARTIAL"
+    },
+    {
+      "id": "v13-east-03",
+      "state": "STATIC",
+      "appearance": "BURN_FULL"
+    },
+    {
+      "id": "v13-west-02",
+      "state": "MOVING_SLOWLY",
+      "appearance": "BURN_FULL"
+    },
+    {
+      "id": "v13-east-04",
+      "state": "SEARCHING",
+      "appearance": "BURN_PARTIAL"
+    },
+    {
+      "id": "v13-east-05",
+      "state": "DOWN",
+      "appearance": "CHARRED"
+    },
+    {
+      "id": "v13-east-06",
+      "state": "DISORIENTED",
+      "appearance": "CLOTH_HALF"
+    }
+  ]
+}

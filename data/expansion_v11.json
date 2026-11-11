@@ -1,0 +1,1778 @@
+{
+  "version": "1.1",
+  "design": "HIROSHIMA_V1_1_DESIGN/expansion-plan.json",
+  "baseCommit": "3ecb6ad83845c91206916d22a48041ae858df37c",
+  "baseBounds": {
+    "minX": -43,
+    "maxX": 66,
+    "minZ": -63,
+    "maxZ": 49
+  },
+  "bounds": {
+    "minX": -43,
+    "maxX": 110,
+    "minZ": -79,
+    "maxZ": 81
+  },
+  "historicalNote": "1935・1939年市街図と1945年航空写真索引による地域関係を参考にした簡略舞台図。高解像度航空写真の位置合わせは未実施。個別配置はC。",
+  "roads": [
+    {
+      "id": "v11-north-main",
+      "name": "補完街路（個別線形未確認）",
+      "x": 0,
+      "z": -71.5,
+      "w": 10,
+      "d": 15,
+      "tram": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-north-side--26",
+      "name": "補完街路（個別線形未確認）",
+      "x": -26,
+      "z": -70.5,
+      "w": 5,
+      "d": 17,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-north-side-26",
+      "name": "補完街路（個別線形未確認）",
+      "x": 26,
+      "z": -70.5,
+      "w": 5,
+      "d": 17,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-north-cross",
+      "name": "補完街路（個別線形未確認）",
+      "x": 0,
+      "z": -77,
+      "w": 86,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-south-main",
+      "name": "補完街路（個別線形未確認）",
+      "x": 0,
+      "z": 65.5,
+      "w": 8,
+      "d": 31,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-south-side--26",
+      "name": "補完街路（個別線形未確認）",
+      "x": -26,
+      "z": 65.5,
+      "w": 5,
+      "d": 31,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-south-side-26",
+      "name": "補完街路（個別線形未確認）",
+      "x": 26,
+      "z": 65.5,
+      "w": 5,
+      "d": 31,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-south-cross",
+      "name": "補完街路（個別線形未確認）",
+      "x": 0,
+      "z": 79,
+      "w": 86,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-south-middle",
+      "name": "補完街路（個別線形未確認）",
+      "x": 0,
+      "z": 51,
+      "w": 86,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-approach",
+      "name": "補完街路（個別線形未確認）",
+      "x": 76,
+      "z": 38,
+      "w": 20,
+      "d": 6,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-main",
+      "name": "補完街路（個別線形未確認）",
+      "x": 86,
+      "z": 57,
+      "w": 7,
+      "d": 44,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-north",
+      "name": "補完街路（個別線形未確認）",
+      "x": 86,
+      "z": -18,
+      "w": 5,
+      "d": 106,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-cross--59",
+      "name": "補完街路（個別線形未確認）",
+      "x": 88,
+      "z": -59,
+      "w": 44,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-cross--37",
+      "name": "補完街路（個別線形未確認）",
+      "x": 88,
+      "z": -37,
+      "w": 44,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-cross--9",
+      "name": "補完街路（個別線形未確認）",
+      "x": 88,
+      "z": -9,
+      "w": 44,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-cross-18",
+      "name": "補完街路（個別線形未確認）",
+      "x": 88,
+      "z": 18,
+      "w": 44,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-cross-63",
+      "name": "補完街路（個別線形未確認）",
+      "x": 88,
+      "z": 63,
+      "w": 44,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-cross-79",
+      "name": "補完街路（個別線形未確認）",
+      "x": 88,
+      "z": 79,
+      "w": 44,
+      "d": 4,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-east-back",
+      "name": "補完街路（個別線形未確認）",
+      "x": 109,
+      "z": 0,
+      "w": 2,
+      "d": 158,
+      "tram": false,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    }
+  ],
+  "buildings": [
+    {
+      "id": "v11-building-00",
+      "x": -36,
+      "z": -71,
+      "w": 7.8,
+      "d": 5.4,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_1",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-01",
+      "x": -18,
+      "z": -71,
+      "w": 6.0,
+      "d": 6.0,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_2",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-02",
+      "x": -9,
+      "z": -71,
+      "w": 7.8,
+      "d": 5.4,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_3",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-03",
+      "x": 10,
+      "z": -71,
+      "w": 5.6,
+      "d": 6.0,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_4",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-04",
+      "x": 18,
+      "z": -71,
+      "w": 6.0,
+      "d": 5.4,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_5",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-05",
+      "x": 36,
+      "z": -71,
+      "w": 6.3999999999999995,
+      "d": 6.0,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_6",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-06",
+      "x": -34,
+      "z": 58,
+      "w": 6.4,
+      "d": 6.8,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "warehouse",
+      "sign": "",
+      "modelType": "WAREHOUSE_1",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-07",
+      "x": -18,
+      "z": 58,
+      "w": 7.8,
+      "d": 6.0,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_2",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-08",
+      "x": 14,
+      "z": 58,
+      "w": 6.3999999999999995,
+      "d": 5.4,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_1",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-09",
+      "x": 33,
+      "z": 58,
+      "w": 5.6,
+      "d": 6.0,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_2",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-10",
+      "x": -34,
+      "z": 73,
+      "w": 6.0,
+      "d": 5.4,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_3",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-11",
+      "x": -18,
+      "z": 73,
+      "w": 7.8,
+      "d": 6.0,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_3",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-12",
+      "x": 14,
+      "z": 73,
+      "w": 5.6,
+      "d": 5.4,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_5",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-13",
+      "x": 33,
+      "z": 73,
+      "w": 6.4,
+      "d": 6.8,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "warehouse",
+      "sign": "",
+      "modelType": "WAREHOUSE_2",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-14",
+      "x": -8,
+      "z": 64,
+      "w": 6.3999999999999995,
+      "d": 5.4,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_7",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-15",
+      "x": 23,
+      "z": 65,
+      "w": 5.6,
+      "d": 6.0,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_4",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-16",
+      "x": -34,
+      "z": 66,
+      "w": 6.0,
+      "d": 5.4,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_1",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-17",
+      "x": 34,
+      "z": 65,
+      "w": 6.3999999999999995,
+      "d": 6.0,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_6",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-18",
+      "x": 73,
+      "z": -69,
+      "w": 7.8,
+      "d": 5.4,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_1",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-19",
+      "x": 94,
+      "z": -69,
+      "w": 7.8,
+      "d": 6.0,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_2",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-20",
+      "x": 103,
+      "z": -69,
+      "w": 7.8,
+      "d": 5.4,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_3",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-21",
+      "x": 73,
+      "z": -49,
+      "w": 5.6,
+      "d": 6.0,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_6",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-22",
+      "x": 94,
+      "z": -49,
+      "w": 6.0,
+      "d": 5.4,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_7",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-23",
+      "x": 103,
+      "z": -49,
+      "w": 6.4,
+      "d": 6.8,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "warehouse",
+      "sign": "",
+      "modelType": "WAREHOUSE_2",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-24",
+      "x": 73,
+      "z": -25,
+      "w": 5.6,
+      "d": 5.4,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_1",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-25",
+      "x": 94,
+      "z": -25,
+      "w": 6.0,
+      "d": 6.0,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_2",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-26",
+      "x": 103,
+      "z": -25,
+      "w": 6.3999999999999995,
+      "d": 5.4,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_3",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-27",
+      "x": 73,
+      "z": 2,
+      "w": 7.8,
+      "d": 6.0,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_1",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-28",
+      "x": 94,
+      "z": 2,
+      "w": 6.0,
+      "d": 5.4,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_5",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-29",
+      "x": 103,
+      "z": 2,
+      "w": 7.8,
+      "d": 6.0,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_3",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-30",
+      "x": 73,
+      "z": 27,
+      "w": 5.6,
+      "d": 5.4,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_7",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-31",
+      "x": 94,
+      "z": 27,
+      "w": 6.0,
+      "d": 6.0,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_2",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-32",
+      "x": 103,
+      "z": 27,
+      "w": 6.3999999999999995,
+      "d": 5.4,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_1",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-33",
+      "x": 73,
+      "z": 53,
+      "w": 5.6,
+      "d": 6.0,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_2",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-34",
+      "x": 94,
+      "z": 53,
+      "w": 6.0,
+      "d": 5.4,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_5",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-35",
+      "x": 103,
+      "z": 53,
+      "w": 6.3999999999999995,
+      "d": 6.0,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_4",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-36",
+      "x": 73,
+      "z": 73,
+      "w": 7.8,
+      "d": 5.4,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_1",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-37",
+      "x": 94,
+      "z": 73,
+      "w": 6.0,
+      "d": 6.0,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "shop",
+      "sign": "日 用 品",
+      "modelType": "SHOP_2",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-38",
+      "x": 103,
+      "z": 73,
+      "w": 7.8,
+      "d": 5.4,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 2,
+      "type": "nagaya",
+      "sign": "",
+      "modelType": "NAGAYA_3",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-39",
+      "x": 76,
+      "z": -12,
+      "w": 5.6,
+      "d": 6.0,
+      "h": 2.8,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 3,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_8",
+      "materialVariant": "timber",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-40",
+      "x": 103,
+      "z": 16,
+      "w": 6.0,
+      "d": 5.4,
+      "h": 3.0999999999999996,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 0,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_1",
+      "materialVariant": "plaster",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-building-41",
+      "x": 75,
+      "z": 65,
+      "w": 6.3999999999999995,
+      "d": 6.0,
+      "h": 3.4,
+      "angle": 0,
+      "roof": 0.95,
+      "color": 1,
+      "type": "home",
+      "sign": "",
+      "modelType": "WOOD_HOUSE_2",
+      "materialVariant": "earth",
+      "damageState": "INTACT",
+      "signFictional": true,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    }
+  ],
+  "riverPatches": [
+    {
+      "id": "v11-motoyasu-north",
+      "name": "河川延長（簡略）",
+      "polygon": [
+        [
+          -65,
+          -82
+        ],
+        [
+          -47,
+          -82
+        ],
+        [
+          -47,
+          -70
+        ],
+        [
+          -65,
+          -70
+        ]
+      ],
+      "bankSegments": [],
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-kyobashi-north",
+      "name": "河川延長（簡略）",
+      "polygon": [
+        [
+          48,
+          -82
+        ],
+        [
+          61,
+          -82
+        ],
+        [
+          61,
+          -70
+        ],
+        [
+          48,
+          -70
+        ]
+      ],
+      "bankSegments": [],
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-motoyasu-south",
+      "name": "河川延長（簡略）",
+      "polygon": [
+        [
+          -65,
+          56
+        ],
+        [
+          -43,
+          56
+        ],
+        [
+          -43,
+          84
+        ],
+        [
+          -65,
+          84
+        ]
+      ],
+      "bankSegments": [],
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    },
+    {
+      "id": "v11-kyobashi-south",
+      "name": "河川延長（簡略）",
+      "polygon": [
+        [
+          43,
+          56
+        ],
+        [
+          54,
+          56
+        ],
+        [
+          54,
+          84
+        ],
+        [
+          43,
+          84
+        ]
+      ],
+      "bankSegments": [],
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。"
+    }
+  ],
+  "groundTiles": [
+    {
+      "x": 91.25,
+      "z": 0.75,
+      "w": 37.5,
+      "d": 160.5
+    },
+    {
+      "x": 0,
+      "z": 73.25,
+      "w": 145,
+      "d": 15.5
+    }
+  ],
+  "trees": [
+    [
+      -7,
+      61
+    ],
+    [
+      7,
+      73
+    ],
+    [
+      79,
+      -42
+    ],
+    [
+      100,
+      -36
+    ],
+    [
+      79,
+      13
+    ],
+    [
+      100,
+      62
+    ]
+  ],
+  "poles": [
+    [
+      5.9,
+      -72
+    ],
+    [
+      5.9,
+      59
+    ],
+    [
+      5.9,
+      78
+    ],
+    [
+      82,
+      -66
+    ],
+    [
+      82,
+      -40
+    ],
+    [
+      82,
+      -16
+    ],
+    [
+      82,
+      9
+    ],
+    [
+      82,
+      32
+    ],
+    [
+      90,
+      53
+    ],
+    [
+      90,
+      77
+    ]
+  ],
+  "gardens": [
+    {
+      "x": -9,
+      "z": 76,
+      "w": 5,
+      "d": 4
+    },
+    {
+      "x": 99,
+      "z": -60,
+      "w": 6,
+      "d": 5
+    }
+  ],
+  "props": [
+    {
+      "type": "cart",
+      "x": 38,
+      "z": 60
+    },
+    {
+      "type": "barrel",
+      "x": 80,
+      "z": 21
+    },
+    {
+      "type": "crate",
+      "x": 98,
+      "z": 57
+    }
+  ],
+  "fires": [
+    {
+      "id": "v11-fire-0",
+      "center": {
+        "x": -35,
+        "z": -74
+      },
+      "radius": 5.2,
+      "level": "INFERNO",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-1",
+      "center": {
+        "x": 37,
+        "z": -74
+      },
+      "radius": 4.5,
+      "level": "LARGE",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-2",
+      "center": {
+        "x": -34,
+        "z": 71
+      },
+      "radius": 4.5,
+      "level": "LARGE",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-3",
+      "center": {
+        "x": 33,
+        "z": 73
+      },
+      "radius": 5.2,
+      "level": "INFERNO",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-4",
+      "center": {
+        "x": 73,
+        "z": -68
+      },
+      "radius": 4.5,
+      "level": "LARGE",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-5",
+      "center": {
+        "x": 103,
+        "z": -48
+      },
+      "radius": 4.5,
+      "level": "LARGE",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-6",
+      "center": {
+        "x": 74,
+        "z": -25
+      },
+      "radius": 5.2,
+      "level": "INFERNO",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-7",
+      "center": {
+        "x": 103,
+        "z": 4
+      },
+      "radius": 4.5,
+      "level": "LARGE",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-8",
+      "center": {
+        "x": 73,
+        "z": 27
+      },
+      "radius": 4.5,
+      "level": "LARGE",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-9",
+      "center": {
+        "x": 103,
+        "z": 52
+      },
+      "radius": 5.2,
+      "level": "INFERNO",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    },
+    {
+      "id": "v11-fire-10",
+      "center": {
+        "x": 74,
+        "z": 73
+      },
+      "radius": 4.5,
+      "level": "LARGE",
+      "intensity": 1.15,
+      "heat": 150,
+      "smoke": 0.8,
+      "confidence": "gameplay_adjusted",
+      "sourceIds": [
+        "S03",
+        "S05"
+      ],
+      "geometryEvidence": "C: 保存済みV1.1設計に基づく非測量の補完。個別街路・建物位置は未確認。",
+      "timeBasis": "覚醒以後の時間圧縮演出。1945年08:15時点の実測火災分布ではない。"
+    }
+  ],
+  "npcs": [
+    {
+      "id": "v11-resident-north",
+      "type": "woman",
+      "route": [
+        [
+          2,
+          -69
+        ],
+        [
+          2,
+          -76
+        ]
+      ],
+      "dialogueTemplate": 1
+    },
+    {
+      "id": "v11-resident-south",
+      "type": "man",
+      "route": [
+        [
+          2,
+          55
+        ],
+        [
+          2,
+          77
+        ]
+      ],
+      "dialogueTemplate": 0
+    },
+    {
+      "id": "v11-resident-east-north",
+      "type": "student",
+      "route": [
+        [
+          86,
+          -65
+        ],
+        [
+          86,
+          -15
+        ]
+      ],
+      "dialogueTemplate": 2
+    },
+    {
+      "id": "v11-resident-east-south",
+      "type": "woman",
+      "route": [
+        [
+          86,
+          45
+        ],
+        [
+          86,
+          74
+        ]
+      ],
+      "dialogueTemplate": 5
+    }
+  ],
+  "confidence": "gameplay_adjusted"
+}

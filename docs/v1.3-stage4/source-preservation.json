@@ -1,0 +1,20 @@
+{
+  "baseline": "914e5a77a7aef8a246a3af21fdb1c0d92353c0df",
+  "unchangedExistingFiles": 52,
+  "changedExistingSrcDataAssets": [
+    "src/crowd-model.js",
+    "src/ending.js",
+    "src/important-people.js",
+    "src/player.js",
+    "src/story-data.js"
+  ],
+  "playerMovementUnchanged": true,
+  "NPCManagerAndClassifierUnchanged": true,
+  "cameraInputMissionsRandomAudioDamageUnchanged": true,
+  "old29NPCDataUnchanged": "hash check in injury test",
+  "newFiles": [
+    "src/character-injury.js",
+    "src/population-v13.js",
+    "data/npc_expansion_v13.json"
+  ]
+}

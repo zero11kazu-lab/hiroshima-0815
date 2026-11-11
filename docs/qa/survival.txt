@@ -1,0 +1,1 @@
+{"smoke":24.00119999999987,"stopped":0,"fire":35.99999999999994,"legs":[{"length":14,"smokeDamage":0},{"length":21,"smokeDamage":0},{"length":20,"smokeDamage":0},{"length":14,"smokeDamage":0},{"length":59,"smokeDamage":5.52785229406994},{"length":60,"smokeDamage":1.6587501388469827}]}

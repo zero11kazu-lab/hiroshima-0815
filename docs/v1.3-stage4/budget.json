@@ -1,0 +1,70 @@
+{
+  "before": {
+    "population": 29,
+    "start": {
+      "batches": 28,
+      "triangles": 8630
+    },
+    "near": {
+      "batches": 46,
+      "triangles": 42860
+    },
+    "far": {
+      "batches": 7,
+      "triangles": 5916
+    },
+    "CPUmsFor20SimSeconds": 502.33711100000005,
+    "textureBytes": 1048576
+  },
+  "29": {
+    "population": 29,
+    "start": {
+      "batches": 29,
+      "triangles": 8630
+    },
+    "near": {
+      "batches": 46,
+      "triangles": 42860
+    },
+    "far": {
+      "batches": 8,
+      "triangles": 5916
+    },
+    "CPUmsFor20SimSeconds": 513.4334389999999,
+    "textureBytes": 1048576
+  },
+  "35": {
+    "population": 35,
+    "start": {
+      "batches": 29,
+      "triangles": 8894
+    },
+    "near": {
+      "batches": 46,
+      "triangles": 49868
+    },
+    "far": {
+      "batches": 8,
+      "triangles": 7140
+    },
+    "CPUmsFor20SimSeconds": 508.6199310000002,
+    "textureBytes": 1048576
+  },
+  "37": {
+    "population": 37,
+    "start": {
+      "batches": 29,
+      "triangles": 9110
+    },
+    "near": {
+      "batches": 46,
+      "triangles": 52200
+    },
+    "far": {
+      "batches": 8,
+      "triangles": 7548
+    },
+    "CPUmsFor20SimSeconds": 529.371185,
+    "textureBytes": 1048576
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "variant": "baseline",
+    "rows": [
+      {
+        "point": {
+          "x": 0,
+          "z": 10
+        },
+        "calls": 230,
+        "triangles": 12706
+      },
+      {
+        "point": {
+          "x": 0,
+          "z": 35
+        },
+        "calls": 327,
+        "triangles": 16518
+      },
+      {
+        "point": {
+          "x": 26,
+          "z": -22
+        },
+        "calls": 117,
+        "triangles": 9016
+      }
+    ],
+    "textures": 11,
+    "geometries": 245,
+    "buildings": 48
+  },
+  {
+    "variant": "phase2",
+    "rows": [
+      {
+        "point": {
+          "x": 0,
+          "z": 10
+        },
+        "calls": 237,
+        "triangles": 20414
+      },
+      {
+        "point": {
+          "x": 0,
+          "z": 35
+        },
+        "calls": 265,
+        "triangles": 22122
+      },
+      {
+        "point": {
+          "x": 26,
+          "z": -22
+        },
+        "calls": 115,
+        "triangles": 14480
+      }
+    ],
+    "textures": 20,
+    "geometries": 315,
+    "buildings": 37
+  }
+]

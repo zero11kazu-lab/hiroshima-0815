@@ -1,0 +1,13 @@
+{
+  "note": "CPU arrays backing NPC render geometries/instances; excludes caches, other world objects, GPU/driver overhead. Not device memory telemetry.",
+  "before": {
+    "NPCs": 29,
+    "renderGeometryAndInstanceBytes": 641798,
+    "crowdAtlasCPUBytes": 1048576
+  },
+  "after": {
+    "NPCs": 37,
+    "renderGeometryAndInstanceBytes": 1210964,
+    "crowdAtlasCPUBytes": 1048576
+  }
+}

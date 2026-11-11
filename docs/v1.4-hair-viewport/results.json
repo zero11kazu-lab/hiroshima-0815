@@ -1,0 +1,1542 @@
+{
+  "hair": {
+    "PASS": true,
+    "femaleNPCs": 16,
+    "stats": [
+      {
+        "id": "masami",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.1644165067475345,
+          0.15193311151760452,
+          0.11816666667852366,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "mother",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "requester",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.10753045910671422,
+          0.16051253805074722,
+          0.16605964011980545,
+          0.11935643605789148,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-4",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.10753045910671422,
+          0.16051253805074722,
+          0.16605964011980545,
+          0.11935643605789148,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-5",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-4",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.10753045910671422,
+          0.16051253805074722,
+          0.16605964011980545,
+          0.11935643605789148,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-5",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-4",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.10753045910671422,
+          0.16051253805074722,
+          0.16605964011980545,
+          0.11935643605789148,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      },
+      {
+        "id": "crowd-3",
+        "hairTriangles": 296,
+        "rearRays": [
+          0.16051253610610594,
+          0.1695763647381628,
+          0.12812343515139596,
+          0.10856316370429814,
+          0.08595612347890669
+        ]
+      }
+    ],
+    "npcs": 37,
+    "hairTextureAdded": false,
+    "endingBranches": [
+      "A",
+      "B"
+    ],
+    "limit": "DOM/renderer/audio stubbed; no physical Safari"
+  },
+  "important": {
+    "PASS": true,
+    "testType": "Real Three.js geometry/batches/state; DOM and WebGL renderer stubbed",
+    "stats": [
+      {
+        "profile": "masami",
+        "triangles": 2516,
+        "parts": 16,
+        "height": 1.7121199936389921,
+        "heads": 6.622775700247184
+      },
+      {
+        "profile": "mother",
+        "triangles": 2784,
+        "parts": 16,
+        "height": 1.6935099937081337,
+        "heads": 6.7579344538298
+      },
+      {
+        "profile": "child",
+        "triangles": 2694,
+        "parts": 16,
+        "height": 1.3085999995708466,
+        "heads": 5.2919765102799055
+      },
+      {
+        "profile": "water-man",
+        "triangles": 2694,
+        "parts": 16,
+        "height": 1.837499999123812,
+        "heads": 6.541762473249578
+      },
+      {
+        "profile": "requester",
+        "triangles": 2784,
+        "parts": 16,
+        "height": 1.7493399935007095,
+        "heads": 6.689672456741828
+      },
+      {
+        "profile": "evacuee",
+        "triangles": 2694,
+        "parts": 16,
+        "height": 1.799999999141693,
+        "heads": 6.478250186798658
+      }
+    ],
+    "people": 37,
+    "profiles": 37,
+    "batchTypes": 127,
+    "nearParts": 16,
+    "farParts": 1,
+    "placements": 20,
+    "uniquePrePlacements": 11,
+    "childTop": 0.9446422027324016,
+    "preConversations": [
+      "masami-pre-01",
+      "masami-pre-02",
+      "masami-pre-03",
+      "masami-pre-04",
+      "masami-pre-05",
+      "masami-pre-06",
+      "masami-pre-07",
+      "masami-pre-08",
+      "masami-pre-09",
+      "masami-pre-13",
+      "masami-pre-14",
+      "masami-pre-12"
+    ],
+    "endings": [
+      {
+        "branch": "A",
+        "masamiFoot": -99.49739999890328,
+        "headY": -99.41
+      },
+      {
+        "branch": "B",
+        "masamiFoot": -99.89,
+        "headY": -98.87250898767537
+      }
+    ],
+    "atlasBytes": 524288
+  },
+  "crowd": {
+    "PASS": true,
+    "testType": "Actual geometry/batches and state; DOM/WebGLRenderer stubbed",
+    "stats": [
+      {
+        "id": "citizen-01",
+        "archetype": 2,
+        "child": false,
+        "elder": true,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538224
+      },
+      {
+        "id": "citizen-03",
+        "archetype": 7,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1168,
+        "damagedTriangles": 1339,
+        "severeTriangles": 1230,
+        "heads": 6.2166667284237
+      },
+      {
+        "id": "citizen-08",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.28716234896412
+      },
+      {
+        "id": "citizen-09",
+        "archetype": 7,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1168,
+        "damagedTriangles": 1339,
+        "severeTriangles": 1230,
+        "heads": 6.2166667284237
+      },
+      {
+        "id": "citizen-10",
+        "archetype": 6,
+        "child": true,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 5.1842105907036125
+      },
+      {
+        "id": "citizen-11",
+        "archetype": 1,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538228
+      },
+      {
+        "id": "citizen-12",
+        "archetype": 4,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1384,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.287162348964118
+      },
+      {
+        "id": "citizen-13",
+        "archetype": 2,
+        "child": false,
+        "elder": true,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538224
+      },
+      {
+        "id": "citizen-14",
+        "archetype": 5,
+        "child": false,
+        "elder": true,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.28716234896412
+      },
+      {
+        "id": "citizen-15",
+        "archetype": 7,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1168,
+        "damagedTriangles": 1339,
+        "severeTriangles": 1230,
+        "heads": 6.2166667284237
+      },
+      {
+        "id": "citizen-16",
+        "archetype": 6,
+        "child": true,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 5.1842105907036125
+      },
+      {
+        "id": "citizen-17",
+        "archetype": 1,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538228
+      },
+      {
+        "id": "citizen-18",
+        "archetype": 4,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1384,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.287162348964118
+      },
+      {
+        "id": "citizen-19",
+        "archetype": 2,
+        "child": false,
+        "elder": true,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538224
+      },
+      {
+        "id": "citizen-20",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.28716234896412
+      },
+      {
+        "id": "citizen-21",
+        "archetype": 0,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538226
+      },
+      {
+        "id": "citizen-22",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.2871623489641175
+      },
+      {
+        "id": "citizen-23",
+        "archetype": 1,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538228
+      },
+      {
+        "id": "citizen-24",
+        "archetype": 5,
+        "child": false,
+        "elder": true,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.287162348964118
+      },
+      {
+        "id": "v11-resident-north",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.28716234896412
+      },
+      {
+        "id": "v11-resident-south",
+        "archetype": 0,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538226
+      },
+      {
+        "id": "v11-resident-east-north",
+        "archetype": 7,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1168,
+        "damagedTriangles": 1339,
+        "severeTriangles": 1230,
+        "heads": 6.216666728423705
+      },
+      {
+        "id": "v11-resident-east-south",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.28716234896412
+      },
+      {
+        "id": "v13-east-01",
+        "archetype": 0,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538226
+      },
+      {
+        "id": "v13-east-02",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.2871623489641175
+      },
+      {
+        "id": "v13-west-01",
+        "archetype": 1,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538228
+      },
+      {
+        "id": "v13-east-03",
+        "archetype": 4,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1384,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.287162348964118
+      },
+      {
+        "id": "v13-west-02",
+        "archetype": 0,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538224
+      },
+      {
+        "id": "v13-east-04",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.28716234896412
+      },
+      {
+        "id": "v13-east-05",
+        "archetype": 0,
+        "child": false,
+        "elder": false,
+        "female": false,
+        "triangles": 1136,
+        "damagedTriangles": 1307,
+        "severeTriangles": 1198,
+        "heads": 6.491228149538226
+      },
+      {
+        "id": "v13-east-06",
+        "archetype": 3,
+        "child": false,
+        "elder": false,
+        "female": true,
+        "triangles": 1372,
+        "damagedTriangles": 1591,
+        "severeTriangles": 1479,
+        "heads": 6.2871623489641175
+      }
+    ],
+    "damageCounts": {
+      "BURN_FULL": 46,
+      "BURN_PARTIAL": 30,
+      "CLOTHED": 10,
+      "CLOTH_HALF": 27,
+      "CHARRED": 24,
+      "BURN_UPPER": 18
+    },
+    "npcs": 37,
+    "general": 31,
+    "archetypes": 8,
+    "budgetNear": {
+      "batches": 46,
+      "triangles": 54614,
+      "shadowBatch": 1
+    },
+    "budgetFar": {
+      "batches": 8,
+      "triangles": 8416,
+      "shadowBatch": 1
+    },
+    "atlasBytes": 1048576,
+    "masamiTriangles": 2516
+  },
+  "viewport": {
+    "PASS": true,
+    "rotations": 6,
+    "zeroSizeIgnored": true,
+    "unchangedSizeSkipped": true,
+    "statePreserved": true,
+    "contextResume": true,
+    "limit": "DOM/renderer stubbed; Safari real device not tested"
+  },
+  "camera": {
+    "PASS": true,
+    "testType": "Node math/state only; DOM and renderer are stubs",
+    "layouts": [
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          1.0774214961762553e-15,
+          0.9685821640485297
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          68,
+          3.500000000000001,
+          63.6
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.980331484210017
+        ],
+        "pixelX": 422,
+        "expectedPixelX": 422
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          1.0774214961762553e-15,
+          0.9685821640485297
+        ],
+        "width": 390,
+        "height": 844,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          68,
+          3.500000000000001,
+          63.6
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.980331484210017
+        ],
+        "pixelX": 195,
+        "expectedPixelX": 195
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          1.0774214961762553e-15,
+          0.9685821640485297
+        ],
+        "width": 568,
+        "height": 320,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          68,
+          3.500000000000001,
+          63.6
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.980331484210017
+        ],
+        "pixelX": 284,
+        "expectedPixelX": 284
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          1.0774214961762553e-15,
+          0.9685821640485297
+        ],
+        "width": 320,
+        "height": 568,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          68,
+          3.500000000000001,
+          63.6
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.980331484210017
+        ],
+        "pixelX": 160,
+        "expectedPixelX": 160
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          1.0774214961762553e-15,
+          0.9685821640485297
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          68,
+          3.500000000000001,
+          63.6
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.980331484210017
+        ],
+        "pixelX": 422,
+        "expectedPixelX": 422
+      }
+    ],
+    "sweep": {
+      "cases": 58861,
+      "maxBodyError": 4.8023371483589676e-14,
+      "penetrations": 0
+    },
+    "movement": [
+      {
+        "post": false,
+        "running": false,
+        "distance": 2.8999999999999204
+      },
+      {
+        "post": false,
+        "running": false,
+        "distance": 2.8999999999999204
+      },
+      {
+        "post": true,
+        "running": false,
+        "distance": 2.8999999999999204
+      },
+      {
+        "post": true,
+        "running": true,
+        "distance": 5.510000000000019
+      }
+    ],
+    "reset": [
+      {
+        "label": "RESET",
+        "ndc": [
+          0,
+          6.03999392345943e-16,
+          0.9645879068062909
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 5.416631790483567,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          30,
+          3.2459793570156616,
+          -33.005325787537146
+        ],
+        "quaternion": [
+          -0.19735800228666991,
+          0,
+          0,
+          0.980331484210017
+        ]
+      },
+      {
+        "label": "RESET",
+        "ndc": [
+          0,
+          0,
+          0.9685821640485295
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          24,
+          3.500000000000001,
+          -68.4
+        ],
+        "quaternion": [
+          -0.19735800228667022,
+          0,
+          0,
+          0.9803314842100168
+        ]
+      },
+      {
+        "label": "RESET",
+        "ndc": [
+          -3.0184201256436445e-15,
+          0,
+          0.9515861460113776
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 4.00680563141223,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          78,
+          2.7004435626894248,
+          61.69467402172799
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.9803314842100168
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "stage": "M1",
+        "completed": true,
+        "label": "after M1",
+        "ndc": [
+          0,
+          0,
+          0.9676749781892716
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 5.9104068702965895,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          79.47373767432302,
+          3.4370468717238127,
+          66.84381627386475
+        ],
+        "quaternion": [
+          -0.19735800228666991,
+          0,
+          0,
+          0.980331484210017
+        ]
+      },
+      {
+        "stage": "M2",
+        "completed": true,
+        "label": "after M2",
+        "ndc": [
+          -2.043962833135111e-15,
+          0,
+          0.9677129773365343
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 5.91704631871723,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          79.47373767432302,
+          3.439616023065442,
+          66.84993850684906
+        ],
+        "quaternion": [
+          -0.19735800228666983,
+          0,
+          0,
+          0.980331484210017
+        ]
+      },
+      {
+        "stage": "M3",
+        "completed": true,
+        "label": "after M3",
+        "ndc": [
+          0,
+          -1.0795163593725794e-15,
+          0.9685180838199651
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.061311218878212,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          68,
+          3.4954396906831278,
+          51.58913287992575
+        ],
+        "quaternion": [
+          -0.19735800228667003,
+          0,
+          0,
+          0.9803314842100168
+        ]
+      }
+    ],
+    "ending": [
+      {
+        "branch": "A",
+        "text": "【完】",
+        "states": [
+          "MASAMI_REUNION",
+          "ESCAPE_SEQUENCE",
+          "FADE_AFTER_ESCAPE",
+          "THIRTY_DAYS_LATER",
+          "RADIATION_EXPLANATION",
+          "TATAMI_ROOM",
+          "MASAMI_FINAL_DIALOGUE",
+          "MASAMI_DEATH",
+          "KAZUO_GRIEF",
+          "FINAL_BLACKOUT",
+          "MEMORIAL",
+          "THE_END"
+        ],
+        "patient": "masami"
+      },
+      {
+        "branch": "B",
+        "text": "【完】",
+        "states": [
+          "MASAMI_REUNION",
+          "ESCAPE_SEQUENCE",
+          "FADE_AFTER_ESCAPE",
+          "THIRTY_DAYS_LATER",
+          "RADIATION_EXPLANATION",
+          "TATAMI_ROOM",
+          "MASAMI_FINAL_DIALOGUE",
+          "MASAMI_DEATH",
+          "KAZUO_GRIEF",
+          "FINAL_BLACKOUT",
+          "MEMORIAL",
+          "THE_END"
+        ],
+        "patient": "kazuo"
+      }
+    ],
+    "errors": [],
+    "actorTransform": {
+      "label": "displayed actor differs from logical position",
+      "ndc": [
+        -1.9914425758708036e-15,
+        1.0774214961762553e-15,
+        0.9685821640485297
+      ],
+      "width": 844,
+      "height": 390,
+      "distance": 6.073096409575597,
+      "avoid": 0,
+      "pitch": 0.39732436317257114,
+      "position": [
+        69.5,
+        3.500000000000001,
+        63.6
+      ],
+      "quaternion": [
+        -0.19735800228667,
+        0,
+        0,
+        0.980331484210017
+      ]
+    },
+    "recovery": {
+      "near": 1.9756586523500772,
+      "first": 2.142877311683966,
+      "final": 6.073095207312463,
+      "normal": 6.073096409575597,
+      "avoid": 0
+    },
+    "checkpoint": {
+      "samePlan": true,
+      "label": "checkpoint",
+      "ndc": [
+        0,
+        1.079605670004674e-15,
+        0.9685153518775032
+      ],
+      "width": 844,
+      "height": 390,
+      "distance": 6.060809795486964,
+      "avoid": 0,
+      "pitch": 0.39732436317257114,
+      "position": [
+        79.47373767432302,
+        3.495245663634986,
+        66.9825027567169
+      ],
+      "quaternion": [
+        -0.1973580022866701,
+        0,
+        0,
+        0.9803314842100168
+      ]
+    }
+  },
+  "return-final": {
+    "PASS": true,
+    "testType": "State only; DOM/renderer stubbed; audio unavailable",
+    "loops": [
+      {
+        "branch": "A",
+        "back": {
+          "started": false,
+          "returning": false,
+          "pre": true,
+          "mode": "PRE",
+          "history": "[\"v12-m1-WW-06\",\"v12-m2-WE-15\",\"v12-m3-EEW-02\",null,\"pre-masami-08\"]",
+          "samePlayer": true
+        },
+        "started": {
+          "started": true,
+          "redrawn": true,
+          "samePlayer": true,
+          "sameGeometry": true,
+          "count": 37,
+          "mode": "PRE",
+          "center": -1.1658253112471275e-15
+        }
+      },
+      {
+        "branch": "B",
+        "back": {
+          "started": false,
+          "returning": false,
+          "pre": true,
+          "mode": "PRE",
+          "history": "[\"v12-m1-EE-07\",\"v12-m2-WE-06\",\"v12-m3-WEE-07\",null,\"pre-masami-05\"]",
+          "samePlayer": true
+        },
+        "started": {
+          "started": true,
+          "redrawn": true,
+          "samePlayer": true,
+          "sameGeometry": true,
+          "count": 37,
+          "mode": "PRE",
+          "center": -1.718167021061846e-14
+        }
+      }
+    ]
+  },
+  "preservation": {
+    "PASS": true,
+    "maleAndChildrenAndKazuoAndFemaleClothingAndMaleCrowdAtlasUnchanged": true,
+    "NPCDataAndWallsAndBuildingsUnchanged": true,
+    "sha256": "9733ae53e743648ac5022c50ece69e27674dd309caaa7e36cf5b760a6b0aa509"
+  },
+  "journey": {
+    "PASS": true,
+    "testType": "Three.js geometry/state; DOM/WebGL renderer stubbed",
+    "stats": {
+      "triangles": 2724,
+      "bodyMeshes": 17,
+      "geometries": 11,
+      "materials": 1,
+      "height": 1.8899999985098836,
+      "headRatio": 6.749999994678155,
+      "npcs": 37
+    },
+    "gait": [
+      {
+        "running": false,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": -2.342574509224886e-15
+      },
+      {
+        "running": false,
+        "cycle": 1.5707963267948966,
+        "left": 0.45,
+        "knee": 0,
+        "chestX": -2.334116364651498e-15
+      },
+      {
+        "running": false,
+        "cycle": 3.141592653589793,
+        "left": 5.5109105961630896e-17,
+        "knee": 0,
+        "chestX": -2.342574509224886e-15
+      },
+      {
+        "running": false,
+        "cycle": 4.71238898038469,
+        "left": -0.45,
+        "knee": -0.65,
+        "chestX": -2.334116364651498e-15
+      },
+      {
+        "running": false,
+        "cycle": 6.283185307179586,
+        "left": -1.1021821192326179e-16,
+        "knee": -1.5920408388915593e-16,
+        "chestX": -2.342574509224886e-15
+      },
+      {
+        "running": true,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": -2.339823866163695e-15
+      },
+      {
+        "running": true,
+        "cycle": 1.5707963267948966,
+        "left": 0.58,
+        "knee": 0,
+        "chestX": -2.3239036331087075e-15
+      },
+      {
+        "running": true,
+        "cycle": 3.141592653589793,
+        "left": 7.102951435054648e-17,
+        "knee": 0,
+        "chestX": -2.339823866163695e-15
+      },
+      {
+        "running": true,
+        "cycle": 4.71238898038469,
+        "left": -0.58,
+        "knee": -1,
+        "chestX": -2.3239036331087075e-15
+      },
+      {
+        "running": true,
+        "cycle": 6.283185307179586,
+        "left": -1.4205902870109295e-16,
+        "knee": -2.4492935982947064e-16,
+        "chestX": -2.339823866163695e-15
+      }
+    ],
+    "textures": [
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      },
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      }
+    ],
+    "atlas": {
+      "pre": 262144,
+      "post": 262144,
+      "room": 262144,
+      "weak": 262144
+    },
+    "postMode": "KAZUO_LIGHT",
+    "damage": [
+      {
+        "kind": "fire",
+        "loss": 18.000000000000043
+      },
+      {
+        "kind": "smoke",
+        "loss": 12.000599999999935
+      }
+    ],
+    "escort": {
+      "frames": 2168,
+      "hp": 100,
+      "minimumSeparation": 0.6395337678737718,
+      "missionSequence": "1→2→3→Masami→reunion",
+      "placementSet": "v12-m3-EEW-01"
+    },
+    "endings": [
+      {
+        "branch": "A",
+        "patient": "masami",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ],
+        "griefFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ]
+      },
+      {
+        "branch": "B",
+        "patient": "kazuo",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ],
+        "griefFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ]
+      }
+    ],
+    "loops": [
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      }
+    ]
+  },
+  "bank-balance-v14": {
+    "PASS": true,
+    "samples": 1000,
+    "starts": {
+      "E": 484,
+      "W": 516
+    },
+    "startCatalogue": {
+      "E": 6,
+      "W": 10
+    },
+    "replayStartIds": 12,
+    "startCandidates": {
+      "E": 6,
+      "W": 9
+    },
+    "startCandidateIdsUsed": 15,
+    "counts": {
+      "giver": [
+        530,
+        501,
+        491
+      ],
+      "alternate": [
+        695,
+        700,
+        692
+      ],
+      "cross": [
+        706,
+        676,
+        689
+      ],
+      "masamiE": 501,
+      "fallback": 0
+    },
+    "patterns": {
+      "EEE": 48,
+      "EWE": 254,
+      "EWW": 108,
+      "EEW": 120,
+      "WEW": 235,
+      "WWW": 46,
+      "WEE": 98,
+      "WWE": 91
+    },
+    "fourEventPatterns": {
+      "EEEW": 30,
+      "EWEW": 177,
+      "EWWE": 76,
+      "EEWW": 41,
+      "EEWE": 79,
+      "WEWE": 166,
+      "EEEE": 18,
+      "EWEE": 77,
+      "WWWW": 16,
+      "WEEE": 23,
+      "WEWW": 69,
+      "WWEE": 32,
+      "WWWE": 30,
+      "EWWW": 32,
+      "WWEW": 59,
+      "WEEW": 75
+    },
+    "validSets": {
+      "mission1": 64,
+      "mission2": 64,
+      "mission3": 72
+    },
+    "method": "1000 morning start draws and 1000 live-planner draws in fixed post geometry; real routes, renderer stubbed"
+  },
+  "post-injury-population-v13": {
+    "PASS": true,
+    "testType": "Actual geometry/texture/state; DOM/WebGL renderer stubbed",
+    "population": 37,
+    "general": 31,
+    "important": 6,
+    "addedEast": 6,
+    "addedWest": 2,
+    "startSides": {
+      "E": 9,
+      "W": 28
+    },
+    "postSides": {
+      "E": 12,
+      "W": 25
+    },
+    "torsoClothArea": {
+      "covered": 0.7903017053990623,
+      "mild": 0.7672753235188897,
+      "light": 0.4088250595737174,
+      "severe": 0.1449288379881056
+    },
+    "skin": [
+      {
+        "variant": "CLOTHED",
+        "unique": 133,
+        "mean": 131.18229166666654,
+        "red": 41
+      },
+      {
+        "variant": "CLOTH_HALF",
+        "unique": 196,
+        "mean": 120.38541666666669,
+        "red": 106
+      },
+      {
+        "variant": "BURN_PARTIAL",
+        "unique": 204,
+        "mean": 109.50911458333333,
+        "red": 159
+      },
+      {
+        "variant": "BURN_FULL",
+        "unique": 141,
+        "mean": 94.80338541666671,
+        "red": 256
+      },
+      {
+        "variant": "BURN_UPPER",
+        "unique": 141,
+        "mean": 94.80338541666671,
+        "red": 256
+      },
+      {
+        "variant": "CHARRED",
+        "unique": 47,
+        "mean": 36.05338541666669,
+        "red": 0
+      }
+    ],
+    "postCounts": {
+      "CHARRED": 3,
+      "BURN_FULL": 9,
+      "BURN_PARTIAL": 10,
+      "CLOTHED": 3,
+      "CLOTH_HALF": 9,
+      "BURN_UPPER": 2,
+      "MASAMI_LIGHT": 1
+    },
+    "simulatedLayouts": 100,
+    "distinctLayouts": 98,
+    "lowSkinArea": {
+      "pre": 0.14797125371397513,
+      "light": 0.6928172805886564,
+      "severe": 1.2376633074633387
+    },
+    "endings": [
+      "A",
+      "B"
+    ]
+  },
+  "miyuki-east-v14": {
+    "PASS": true,
+    "testType": "Real geometry/raycast/navigation/state; renderer stubbed",
+    "bridgeEastX": 64,
+    "existingApproach": [
+      66,
+      86
+    ],
+    "landingGrade": [
+      64,
+      72
+    ],
+    "eastRoadCentreX": 86,
+    "eastTrackToZ": 81,
+    "railCountPerSection": 4,
+    "railHeadAboveRoad": 0.025,
+    "samples": [
+      {
+        "x": 63.99,
+        "road": 0.24000000000000002,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 64,
+        "road": 0.23999999403953554,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 64.01,
+        "road": 0.23971874408423888,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 65,
+        "road": 0.2118749985098839,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 65.99,
+        "road": 0.1840312529355289,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 66,
+        "road": 0.18375000298023225,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 66.01,
+        "road": 0.1834687529752651,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 68,
+        "road": 0.12750000198682165,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 70,
+        "road": 0.0712500009934106,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 71.99,
+        "road": 0.015281250004967148,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 72,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 72.01,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 76,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 79,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      }
+    ],
+    "routeWaypoints": 72,
+    "preConflicts": 0,
+    "postConflicts": [],
+    "triangles": 2925,
+    "trackMeshes": 1,
+    "npcs": 37
+  }
+}

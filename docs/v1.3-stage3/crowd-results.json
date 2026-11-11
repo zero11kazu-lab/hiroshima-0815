@@ -1,0 +1,282 @@
+{
+  "PASS": true,
+  "testType": "Actual geometry/batches and state; DOM/WebGLRenderer stubbed",
+  "stats": [
+    {
+      "id": "citizen-01",
+      "archetype": 2,
+      "child": false,
+      "elder": true,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538224
+    },
+    {
+      "id": "citizen-03",
+      "archetype": 7,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1168,
+      "damagedTriangles": 1355,
+      "severeTriangles": 1277,
+      "heads": 6.2166667284237
+    },
+    {
+      "id": "citizen-08",
+      "archetype": 3,
+      "child": false,
+      "elder": false,
+      "female": true,
+      "triangles": 1172,
+      "damagedTriangles": 1360,
+      "severeTriangles": 1280,
+      "heads": 6.4912281495382285
+    },
+    {
+      "id": "citizen-09",
+      "archetype": 7,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1168,
+      "damagedTriangles": 1355,
+      "severeTriangles": 1277,
+      "heads": 6.2166667284237
+    },
+    {
+      "id": "citizen-10",
+      "archetype": 6,
+      "child": true,
+      "elder": false,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 5.1842105907036125
+    },
+    {
+      "id": "citizen-11",
+      "archetype": 1,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538228
+    },
+    {
+      "id": "citizen-12",
+      "archetype": 4,
+      "child": false,
+      "elder": false,
+      "female": true,
+      "triangles": 1184,
+      "damagedTriangles": 1372,
+      "severeTriangles": 1292,
+      "heads": 6.491228149538228
+    },
+    {
+      "id": "citizen-13",
+      "archetype": 2,
+      "child": false,
+      "elder": true,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538224
+    },
+    {
+      "id": "citizen-14",
+      "archetype": 5,
+      "child": false,
+      "elder": true,
+      "female": true,
+      "triangles": 1172,
+      "damagedTriangles": 1360,
+      "severeTriangles": 1280,
+      "heads": 6.4912281495382285
+    },
+    {
+      "id": "citizen-15",
+      "archetype": 7,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1168,
+      "damagedTriangles": 1355,
+      "severeTriangles": 1277,
+      "heads": 6.2166667284237
+    },
+    {
+      "id": "citizen-16",
+      "archetype": 6,
+      "child": true,
+      "elder": false,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 5.1842105907036125
+    },
+    {
+      "id": "citizen-17",
+      "archetype": 1,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538228
+    },
+    {
+      "id": "citizen-18",
+      "archetype": 4,
+      "child": false,
+      "elder": false,
+      "female": true,
+      "triangles": 1184,
+      "damagedTriangles": 1372,
+      "severeTriangles": 1292,
+      "heads": 6.491228149538228
+    },
+    {
+      "id": "citizen-19",
+      "archetype": 2,
+      "child": false,
+      "elder": true,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538224
+    },
+    {
+      "id": "citizen-20",
+      "archetype": 3,
+      "child": false,
+      "elder": false,
+      "female": true,
+      "triangles": 1172,
+      "damagedTriangles": 1360,
+      "severeTriangles": 1280,
+      "heads": 6.4912281495382285
+    },
+    {
+      "id": "citizen-21",
+      "archetype": 0,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538226
+    },
+    {
+      "id": "citizen-22",
+      "archetype": 3,
+      "child": false,
+      "elder": false,
+      "female": true,
+      "triangles": 1172,
+      "damagedTriangles": 1360,
+      "severeTriangles": 1280,
+      "heads": 6.491228149538226
+    },
+    {
+      "id": "citizen-23",
+      "archetype": 1,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538228
+    },
+    {
+      "id": "citizen-24",
+      "archetype": 5,
+      "child": false,
+      "elder": true,
+      "female": true,
+      "triangles": 1172,
+      "damagedTriangles": 1360,
+      "severeTriangles": 1280,
+      "heads": 6.491228149538228
+    },
+    {
+      "id": "v11-resident-north",
+      "archetype": 3,
+      "child": false,
+      "elder": false,
+      "female": true,
+      "triangles": 1172,
+      "damagedTriangles": 1360,
+      "severeTriangles": 1280,
+      "heads": 6.4912281495382285
+    },
+    {
+      "id": "v11-resident-south",
+      "archetype": 0,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1136,
+      "damagedTriangles": 1323,
+      "severeTriangles": 1245,
+      "heads": 6.491228149538226
+    },
+    {
+      "id": "v11-resident-east-north",
+      "archetype": 7,
+      "child": false,
+      "elder": false,
+      "female": false,
+      "triangles": 1168,
+      "damagedTriangles": 1355,
+      "severeTriangles": 1277,
+      "heads": 6.216666728423705
+    },
+    {
+      "id": "v11-resident-east-south",
+      "archetype": 3,
+      "child": false,
+      "elder": false,
+      "female": true,
+      "triangles": 1172,
+      "damagedTriangles": 1360,
+      "severeTriangles": 1280,
+      "heads": 6.4912281495382285
+    }
+  ],
+  "damageCounts": {
+    "BURN_FULL": 32,
+    "BURN_PARTIAL": 21,
+    "CLOTHED": 10,
+    "CLOTH_HALF": 24,
+    "CHARRED": 14,
+    "BURN_UPPER": 14
+  },
+  "npcs": 29,
+  "general": 23,
+  "archetypes": 8,
+  "budgetNear": {
+    "batches": 46,
+    "triangles": 42512,
+    "shadowBatch": 1
+  },
+  "budgetFar": {
+    "batches": 7,
+    "triangles": 5568,
+    "shadowBatch": 1
+  },
+  "atlasBytes": 1048576,
+  "masamiTriangles": 2430
+}

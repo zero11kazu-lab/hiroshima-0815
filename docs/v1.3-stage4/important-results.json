@@ -1,0 +1,83 @@
+{
+  "PASS": true,
+  "testType": "Real Three.js geometry/batches/state; DOM and WebGL renderer stubbed",
+  "stats": [
+    {
+      "profile": "masami",
+      "triangles": 2430,
+      "parts": 16,
+      "height": 1.7268399960517882,
+      "heads": 6.145337993850858
+    },
+    {
+      "profile": "mother",
+      "triangles": 2698,
+      "parts": 16,
+      "height": 1.7080699960947037,
+      "heads": 6.202592756070351
+    },
+    {
+      "profile": "child",
+      "triangles": 2694,
+      "parts": 16,
+      "height": 1.3085999995708466,
+      "heads": 5.2919765102799055
+    },
+    {
+      "profile": "water-man",
+      "triangles": 2694,
+      "parts": 16,
+      "height": 1.837499999123812,
+      "heads": 6.4109272237845865
+    },
+    {
+      "profile": "requester",
+      "triangles": 2698,
+      "parts": 16,
+      "height": 1.7643799959659574,
+      "heads": 6.342355887206689
+    },
+    {
+      "profile": "evacuee",
+      "triangles": 2694,
+      "parts": 16,
+      "height": 1.799999999141693,
+      "heads": 6.2191201793267155
+    }
+  ],
+  "people": 37,
+  "profiles": 37,
+  "batchTypes": 121,
+  "nearParts": 16,
+  "farParts": 1,
+  "placements": 20,
+  "uniquePrePlacements": 12,
+  "childTop": 0.9446422027324016,
+  "preConversations": [
+    "masami-pre-01",
+    "masami-pre-02",
+    "masami-pre-03",
+    "masami-pre-04",
+    "masami-pre-05",
+    "masami-pre-06",
+    "masami-pre-07",
+    "masami-pre-08",
+    "masami-pre-09",
+    "masami-pre-17",
+    "masami-pre-16",
+    "masami-pre-14"
+  ],
+  "endings": [
+    {
+      "branch": "A",
+      "masamiFoot": -99.49739999890328,
+      "headY": -99.41
+    },
+    {
+      "branch": "B",
+      "masamiFoot": -99.89,
+      "headY": -98.87250898767537
+    }
+  ],
+  "atlasBytes": 524288
+}

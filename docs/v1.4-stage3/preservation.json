@@ -1,0 +1,12 @@
+{
+  "existingFilesChanged": [
+    "src/world.js",
+    "src/post-missions.js",
+    "src/aftermath.js",
+    "data/postblast_damage.json"
+  ],
+  "damageThresholdsUnchanged": true,
+  "allAssetsUnchanged": true,
+  "characterAudioEndingDialogueAndPlacementSourcesUnchanged": true,
+  "missionProgressOnlyExistingController": true
+}

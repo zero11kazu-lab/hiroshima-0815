@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cityhall",
+    "name": "広島市役所",
+    "x": -9,
+    "z": -58,
+    "w": 16,
+    "d": 7,
+    "h": 6.5,
+    "roof": 0.25,
+    "modelType": "PUBLIC_CITYHALL",
+    "historicalDistanceMetres": 1020,
+    "sourceIds": [
+      "S07",
+      "S08"
+    ],
+    "angle": 0,
+    "color": 1,
+    "type": "public",
+    "confidence": "gameplay_adjusted",
+    "existenceConfidence": "confirmed",
+    "materialVariant": "masonry",
+    "damageState": "INTACT",
+    "note": "外形・窓配置は簡略模型。実測復元ではない。"
+  },
+  {
+    "id": "bunrika",
+    "name": "広島文理科大学",
+    "x": 36,
+    "z": -28,
+    "w": 13,
+    "d": 9,
+    "h": 6,
+    "roof": 0.45,
+    "modelType": "PUBLIC_UNIVERSITY",
+    "historicalDistanceMetres": 1420,
+    "sourceIds": [
+      "S07"
+    ],
+    "angle": 0,
+    "color": 1,
+    "type": "public",
+    "confidence": "gameplay_adjusted",
+    "existenceConfidence": "confirmed",
+    "materialVariant": "masonry",
+    "damageState": "INTACT",
+    "note": "外形・窓配置は簡略模型。実測復元ではない。"
+  },
+  {
+    "id": "hiroden-senda",
+    "name": "千田町変電所・資材倉庫",
+    "x": 36,
+    "z": 17,
+    "w": 13,
+    "d": 10,
+    "h": 5.3,
+    "roof": 1.2,
+    "modelType": "PUBLIC_SUBSTATION",
+    "historicalDistanceMetres": 1920,
+    "sourceIds": [
+      "S07"
+    ],
+    "angle": 0,
+    "color": 1,
+    "type": "public",
+    "confidence": "gameplay_adjusted",
+    "existenceConfidence": "confirmed",
+    "materialVariant": "masonry",
+    "damageState": "INTACT",
+    "note": "外形・窓配置は簡略模型。実測復元ではない。"
+  }
+]

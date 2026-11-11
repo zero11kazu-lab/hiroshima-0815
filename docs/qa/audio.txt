@@ -1,0 +1,17 @@
+{
+  post: {
+    mode: 'post',
+    context: 'running',
+    gain: 0.36000001430511475,
+    rms: 0.0948789504220324,
+    peak: 0.24915480613708496
+  },
+  end: {
+    mode: 'ending',
+    context: 'running',
+    gain: 0.23745235800743103,
+    rms: 0.029934463741950922,
+    peak: 0.044910553842782974
+  }
+}
+{"PASS":true,"post":{"mode":"post","context":"running","gain":0.36000001430511475,"rms":0.0948789504220324,"peak":0.24915480613708496},"end":{"mode":"ending","context":"running","gain":0.23745235800743103,"rms":0.029934463741950922,"peak":0.044910553842782974}}

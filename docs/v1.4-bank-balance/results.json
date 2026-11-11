@@ -1,0 +1,1462 @@
+{
+  "statistics": {
+    "PASS": true,
+    "samples": 1000,
+    "starts": {
+      "E": 484,
+      "W": 516
+    },
+    "startCatalogue": {
+      "E": 6,
+      "W": 10
+    },
+    "replayStartIds": 12,
+    "startCandidates": {
+      "E": 6,
+      "W": 9
+    },
+    "startCandidateIdsUsed": 15,
+    "counts": {
+      "giver": [
+        530,
+        501,
+        491
+      ],
+      "alternate": [
+        695,
+        700,
+        692
+      ],
+      "cross": [
+        706,
+        676,
+        689
+      ],
+      "masamiE": 501,
+      "fallback": 0
+    },
+    "patterns": {
+      "EEE": 48,
+      "EWE": 254,
+      "EWW": 108,
+      "EEW": 120,
+      "WEW": 235,
+      "WWW": 46,
+      "WEE": 98,
+      "WWE": 91
+    },
+    "fourEventPatterns": {
+      "EEEW": 30,
+      "EWEW": 177,
+      "EWWE": 76,
+      "EEWW": 41,
+      "EEWE": 79,
+      "WEWE": 166,
+      "EEEE": 18,
+      "EWEE": 77,
+      "WWWW": 16,
+      "WEEE": 23,
+      "WEWW": 69,
+      "WWEE": 32,
+      "WWWE": 30,
+      "EWWW": 32,
+      "WWEW": 59,
+      "WEEW": 75
+    },
+    "validSets": {
+      "mission1": 64,
+      "mission2": 64,
+      "mission3": 72
+    },
+    "method": "1000 morning start draws and 1000 live-planner draws in fixed post geometry; real routes, renderer stubbed"
+  },
+  "smoke": {
+    "PASS": true,
+    "testType": "Real geometry/navigation/state; renderer stubbed",
+    "moved": [
+      {
+        "type": "building",
+        "id": "block-34",
+        "from": {
+          "x": 10,
+          "z": 38
+        },
+        "to": {
+          "x": 11.072996771088706,
+          "z": 43.39431904221777
+        }
+      },
+      {
+        "type": "building",
+        "id": "cityhall",
+        "from": {
+          "x": -9,
+          "z": -58
+        },
+        "to": {
+          "x": -13.5,
+          "z": -56.61107441745099
+        }
+      },
+      {
+        "type": "garden-with-laundry-and-three-fences",
+        "from": {
+          "x": 20,
+          "z": 38
+        },
+        "to": {
+          "x": 20,
+          "z": 44
+        }
+      },
+      {
+        "type": "pole",
+        "from": {
+          "x": 5.9,
+          "z": 37
+        },
+        "to": {
+          "x": 5.9,
+          "z": 35
+        }
+      }
+    ],
+    "preConflicts": 0,
+    "postBuildingDomesticConflicts": [],
+    "south": {
+      "start": 50,
+      "playableEnd": 81,
+      "sceneryEnd": 167,
+      "width": 10
+    },
+    "samples": [
+      {
+        "z": 49,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999987343
+      },
+      {
+        "z": 49.99,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999987345
+      },
+      {
+        "z": 50,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000003663
+      },
+      {
+        "z": 50.01,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000003661
+      },
+      {
+        "z": 51,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000002997
+      },
+      {
+        "z": 60,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000001443
+      },
+      {
+        "z": 70,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999999222
+      },
+      {
+        "z": 80,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999996558
+      },
+      {
+        "z": 81,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000009547
+      },
+      {
+        "z": 82,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000009547
+      },
+      {
+        "z": 100,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000005329
+      },
+      {
+        "z": 140,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999996447
+      },
+      {
+        "z": 165,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999990896
+      }
+    ],
+    "southWalkWaypoints": 60,
+    "railTriangles": 2925,
+    "npcs": 37
+  },
+  "return": {
+    "PASS": true,
+    "testType": "State only; DOM/renderer stubbed; audio unavailable",
+    "loops": [
+      {
+        "branch": "A",
+        "back": {
+          "started": false,
+          "returning": false,
+          "pre": true,
+          "mode": "PRE",
+          "history": "[\"v12-m1-WE-09\",\"v12-m2-WE-07\",\"v12-m3-EEE-10\",null,\"pre-masami-07\"]",
+          "samePlayer": true
+        },
+        "started": {
+          "started": true,
+          "redrawn": true,
+          "samePlayer": true,
+          "sameGeometry": true,
+          "count": 37,
+          "mode": "PRE",
+          "center": -1.9457787792122645e-15
+        }
+      },
+      {
+        "branch": "B",
+        "back": {
+          "started": false,
+          "returning": false,
+          "pre": true,
+          "mode": "PRE",
+          "history": "[\"v12-m1-WE-03\",\"v12-m2-EW-05\",\"v12-m3-WWW-12\",null,\"pre-masami-09\"]",
+          "samePlayer": true
+        },
+        "started": {
+          "started": true,
+          "redrawn": true,
+          "samePlayer": true,
+          "sameGeometry": true,
+          "count": 37,
+          "mode": "PRE",
+          "center": 0
+        }
+      }
+    ]
+  },
+  "camera": {
+    "PASS": true,
+    "testType": "Node math/state only; DOM and renderer are stubs",
+    "layouts": [
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          0,
+          0.9685821640485295
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          24,
+          3.500000000000001,
+          -68.4
+        ],
+        "quaternion": [
+          -0.19735800228667022,
+          0,
+          0,
+          0.9803314842100168
+        ],
+        "pixelX": 422,
+        "expectedPixelX": 422
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          0,
+          0.9685821640485295
+        ],
+        "width": 390,
+        "height": 844,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          24,
+          3.500000000000001,
+          -68.4
+        ],
+        "quaternion": [
+          -0.19735800228667022,
+          0,
+          0,
+          0.9803314842100168
+        ],
+        "pixelX": 195,
+        "expectedPixelX": 195
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          0,
+          0.9685821640485295
+        ],
+        "width": 568,
+        "height": 320,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          24,
+          3.500000000000001,
+          -68.4
+        ],
+        "quaternion": [
+          -0.19735800228667022,
+          0,
+          0,
+          0.9803314842100168
+        ],
+        "pixelX": 284,
+        "expectedPixelX": 284
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          0,
+          0.9685821640485295
+        ],
+        "width": 320,
+        "height": 568,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          24,
+          3.500000000000001,
+          -68.4
+        ],
+        "quaternion": [
+          -0.19735800228667022,
+          0,
+          0,
+          0.9803314842100168
+        ],
+        "pixelX": 160,
+        "expectedPixelX": 160
+      },
+      {
+        "label": "delayed layout",
+        "ndc": [
+          0,
+          0,
+          0.9685821640485295
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          24,
+          3.500000000000001,
+          -68.4
+        ],
+        "quaternion": [
+          -0.19735800228667022,
+          0,
+          0,
+          0.9803314842100168
+        ],
+        "pixelX": 422,
+        "expectedPixelX": 422
+      }
+    ],
+    "sweep": {
+      "cases": 58837,
+      "maxBodyError": 4.8023371483589676e-14,
+      "penetrations": 0
+    },
+    "movement": [
+      {
+        "post": false,
+        "running": false,
+        "distance": 2.8999999999999204
+      },
+      {
+        "post": false,
+        "running": false,
+        "distance": 2.8999999999999204
+      },
+      {
+        "post": true,
+        "running": false,
+        "distance": 2.8999999999999204
+      },
+      {
+        "post": true,
+        "running": true,
+        "distance": 5.510000000000019
+      }
+    ],
+    "reset": [
+      {
+        "label": "RESET",
+        "ndc": [
+          -4.978606439677007e-16,
+          -2.6935537404406373e-16,
+          0.9685821640485297
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          24,
+          3.500000000000001,
+          -10.399999999999999
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.980331484210017
+        ]
+      },
+      {
+        "label": "RESET",
+        "ndc": [
+          -1.9914425758708036e-15,
+          1.0774214961762553e-15,
+          0.9685821640485297
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.073096409575597,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          90,
+          3.500000000000001,
+          63.6
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.980331484210017
+        ]
+      },
+      {
+        "label": "RESET",
+        "ndc": [
+          -3.0184201256436445e-15,
+          0,
+          0.9515861460113776
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 4.00680563141223,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          78,
+          2.7004435626894248,
+          61.69467402172799
+        ],
+        "quaternion": [
+          -0.19735800228667,
+          0,
+          0,
+          0.9803314842100168
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "stage": "M1",
+        "completed": true,
+        "label": "after M1",
+        "ndc": [
+          0,
+          0,
+          0.9676749781892716
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 5.9104068702965895,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          79.47373767432302,
+          3.4370468717238127,
+          66.84381627386475
+        ],
+        "quaternion": [
+          -0.19735800228666991,
+          0,
+          0,
+          0.980331484210017
+        ]
+      },
+      {
+        "stage": "M2",
+        "completed": true,
+        "label": "after M2",
+        "ndc": [
+          -2.043962833135111e-15,
+          0,
+          0.9677129773365343
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 5.91704631871723,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          79.47373767432302,
+          3.439616023065442,
+          66.84993850684906
+        ],
+        "quaternion": [
+          -0.19735800228666983,
+          0,
+          0,
+          0.980331484210017
+        ]
+      },
+      {
+        "stage": "M3",
+        "completed": true,
+        "label": "after M3",
+        "ndc": [
+          0,
+          1.0795163593725806e-15,
+          0.9685180838199651
+        ],
+        "width": 844,
+        "height": 390,
+        "distance": 6.061311218878212,
+        "avoid": 0,
+        "pitch": 0.39732436317257114,
+        "position": [
+          68,
+          3.4954396906831278,
+          -32.41086712007425
+        ],
+        "quaternion": [
+          -0.19735800228667003,
+          0,
+          0,
+          0.9803314842100168
+        ]
+      }
+    ],
+    "ending": [
+      {
+        "branch": "A",
+        "text": "【完】",
+        "states": [
+          "MASAMI_REUNION",
+          "ESCAPE_SEQUENCE",
+          "FADE_AFTER_ESCAPE",
+          "THIRTY_DAYS_LATER",
+          "RADIATION_EXPLANATION",
+          "TATAMI_ROOM",
+          "MASAMI_FINAL_DIALOGUE",
+          "MASAMI_DEATH",
+          "KAZUO_GRIEF",
+          "FINAL_BLACKOUT",
+          "MEMORIAL",
+          "THE_END"
+        ],
+        "patient": "masami"
+      },
+      {
+        "branch": "B",
+        "text": "【完】",
+        "states": [
+          "MASAMI_REUNION",
+          "ESCAPE_SEQUENCE",
+          "FADE_AFTER_ESCAPE",
+          "THIRTY_DAYS_LATER",
+          "RADIATION_EXPLANATION",
+          "TATAMI_ROOM",
+          "MASAMI_FINAL_DIALOGUE",
+          "MASAMI_DEATH",
+          "KAZUO_GRIEF",
+          "FINAL_BLACKOUT",
+          "MEMORIAL",
+          "THE_END"
+        ],
+        "patient": "kazuo"
+      }
+    ],
+    "errors": [],
+    "actorTransform": {
+      "label": "displayed actor differs from logical position",
+      "ndc": [
+        0,
+        0,
+        0.9685821640485295
+      ],
+      "width": 844,
+      "height": 390,
+      "distance": 6.073096409575597,
+      "avoid": 0,
+      "pitch": 0.39732436317257114,
+      "position": [
+        25.5,
+        3.500000000000001,
+        -68.4
+      ],
+      "quaternion": [
+        -0.19735800228667022,
+        0,
+        0,
+        0.9803314842100168
+      ]
+    },
+    "recovery": {
+      "near": 1.9756586523500772,
+      "first": 2.142877311683966,
+      "final": 6.073095207312463,
+      "normal": 6.073096409575597,
+      "avoid": 0
+    },
+    "checkpoint": {
+      "samePlan": true,
+      "label": "checkpoint",
+      "ndc": [
+        0,
+        1.079605670004674e-15,
+        0.9685153518775032
+      ],
+      "width": 844,
+      "height": 390,
+      "distance": 6.060809795486964,
+      "avoid": 0,
+      "pitch": 0.39732436317257114,
+      "position": [
+        79.47373767432302,
+        3.495245663634986,
+        66.9825027567169
+      ],
+      "quaternion": [
+        -0.1973580022866701,
+        0,
+        0,
+        0.9803314842100168
+      ]
+    }
+  },
+  "east": {
+    "PASS": true,
+    "testType": "Real geometry/raycast/navigation/state; renderer stubbed",
+    "bridgeEastX": 64,
+    "existingApproach": [
+      66,
+      86
+    ],
+    "landingGrade": [
+      64,
+      72
+    ],
+    "eastRoadCentreX": 86,
+    "eastTrackToZ": 81,
+    "railCountPerSection": 4,
+    "railHeadAboveRoad": 0.025,
+    "samples": [
+      {
+        "x": 63.99,
+        "road": 0.24000000000000002,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 64,
+        "road": 0.23999999403953554,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 64.01,
+        "road": 0.23971874408423888,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 65,
+        "road": 0.2118749985098839,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 65.99,
+        "road": 0.1840312529355289,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 66,
+        "road": 0.18375000298023225,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 66.01,
+        "road": 0.1834687529752651,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 68,
+        "road": 0.12750000198682165,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 70,
+        "road": 0.0712500009934106,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 71.99,
+        "road": 0.015281250004967148,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 72,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 72.01,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 76,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      },
+      {
+        "x": 79,
+        "road": 0.015,
+        "railAboveRoad": 0.025
+      }
+    ],
+    "routeWaypoints": 72,
+    "preConflicts": 0,
+    "postConflicts": [],
+    "triangles": 2925,
+    "trackMeshes": 1,
+    "npcs": 37
+  },
+  "journey-v12-m3-EWW-07": {
+    "PASS": true,
+    "testType": "Three.js geometry/state; DOM/WebGL renderer stubbed",
+    "stats": {
+      "triangles": 2724,
+      "bodyMeshes": 17,
+      "geometries": 11,
+      "materials": 1,
+      "height": 1.8899999985098836,
+      "headRatio": 6.749999994678155,
+      "npcs": 37
+    },
+    "gait": [
+      {
+        "running": false,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": 8.924637606989471e-15
+      },
+      {
+        "running": false,
+        "cycle": 1.5707963267948966,
+        "left": 0.45,
+        "knee": 0,
+        "chestX": 8.849900646158035e-15
+      },
+      {
+        "running": false,
+        "cycle": 3.141592653589793,
+        "left": 5.5109105961630896e-17,
+        "knee": 0,
+        "chestX": 8.924637606989471e-15
+      },
+      {
+        "running": false,
+        "cycle": 4.71238898038469,
+        "left": -0.45,
+        "knee": -0.65,
+        "chestX": 8.849900646158035e-15
+      },
+      {
+        "running": false,
+        "cycle": 6.283185307179586,
+        "left": -1.1021821192326179e-16,
+        "knee": -1.5920408388915593e-16,
+        "chestX": 8.924637606989471e-15
+      },
+      {
+        "running": true,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": 8.900254002252342e-15
+      },
+      {
+        "running": true,
+        "cycle": 1.5707963267948966,
+        "left": 0.58,
+        "knee": 0,
+        "chestX": 8.760606878994246e-15
+      },
+      {
+        "running": true,
+        "cycle": 3.141592653589793,
+        "left": 7.102951435054648e-17,
+        "knee": 0,
+        "chestX": 8.900254002252342e-15
+      },
+      {
+        "running": true,
+        "cycle": 4.71238898038469,
+        "left": -0.58,
+        "knee": -1,
+        "chestX": 8.760606878994246e-15
+      },
+      {
+        "running": true,
+        "cycle": 6.283185307179586,
+        "left": -1.4205902870109295e-16,
+        "knee": -2.4492935982947064e-16,
+        "chestX": 8.900254002252342e-15
+      }
+    ],
+    "textures": [
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      },
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      }
+    ],
+    "atlas": {
+      "pre": 262144,
+      "post": 262144,
+      "room": 262144,
+      "weak": 262144
+    },
+    "postMode": "KAZUO_LIGHT",
+    "damage": [
+      {
+        "kind": "fire",
+        "loss": 18.000000000000043
+      },
+      {
+        "kind": "smoke",
+        "loss": 12.000599999999935
+      }
+    ],
+    "escort": {
+      "frames": 941,
+      "hp": 100,
+      "minimumSeparation": 0.6395337678737543,
+      "missionSequence": "1→2→3→Masami→reunion",
+      "placementSet": "v12-m3-EWW-07"
+    },
+    "endings": [
+      {
+        "branch": "A",
+        "patient": "masami",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ],
+        "griefFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ]
+      },
+      {
+        "branch": "B",
+        "patient": "kazuo",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ],
+        "griefFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ]
+      }
+    ],
+    "loops": [
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      }
+    ]
+  },
+  "journey-v12-m3-EEW-01": {
+    "PASS": true,
+    "testType": "Three.js geometry/state; DOM/WebGL renderer stubbed",
+    "stats": {
+      "triangles": 2724,
+      "bodyMeshes": 17,
+      "geometries": 11,
+      "materials": 1,
+      "height": 1.8899999985098836,
+      "headRatio": 6.749999994678155,
+      "npcs": 37
+    },
+    "gait": [
+      {
+        "running": false,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": -1.7459610842220174e-15
+      },
+      {
+        "running": false,
+        "cycle": 1.5707963267948966,
+        "left": 0.45,
+        "knee": 0,
+        "chestX": -1.736580741136207e-15
+      },
+      {
+        "running": false,
+        "cycle": 3.141592653589793,
+        "left": 5.5109105961630896e-17,
+        "knee": 0,
+        "chestX": -1.7459610842220174e-15
+      },
+      {
+        "running": false,
+        "cycle": 4.71238898038469,
+        "left": -0.45,
+        "knee": -0.65,
+        "chestX": -1.736580741136207e-15
+      },
+      {
+        "running": false,
+        "cycle": 6.283185307179586,
+        "left": -1.1021821192326179e-16,
+        "knee": -1.5920408388915593e-16,
+        "chestX": -1.7459610842220174e-15
+      },
+      {
+        "running": true,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": -1.7429068917649366e-15
+      },
+      {
+        "running": true,
+        "cycle": 1.5707963267948966,
+        "left": 0.58,
+        "knee": 0,
+        "chestX": -1.7252986254180167e-15
+      },
+      {
+        "running": true,
+        "cycle": 3.141592653589793,
+        "left": 7.102951435054648e-17,
+        "knee": 0,
+        "chestX": -1.7429068917649366e-15
+      },
+      {
+        "running": true,
+        "cycle": 4.71238898038469,
+        "left": -0.58,
+        "knee": -1,
+        "chestX": -1.7252986254180167e-15
+      },
+      {
+        "running": true,
+        "cycle": 6.283185307179586,
+        "left": -1.4205902870109295e-16,
+        "knee": -2.4492935982947064e-16,
+        "chestX": -1.7429068917649366e-15
+      }
+    ],
+    "textures": [
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      },
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      }
+    ],
+    "atlas": {
+      "pre": 262144,
+      "post": 262144,
+      "room": 262144,
+      "weak": 262144
+    },
+    "postMode": "KAZUO_LIGHT",
+    "damage": [
+      {
+        "kind": "fire",
+        "loss": 18.000000000000043
+      },
+      {
+        "kind": "smoke",
+        "loss": 12.000599999999935
+      }
+    ],
+    "escort": {
+      "frames": 2164,
+      "hp": 100,
+      "minimumSeparation": 0.7361623963986712,
+      "missionSequence": "1→2→3→Masami→reunion",
+      "placementSet": "v12-m3-EEW-01"
+    },
+    "endings": [
+      {
+        "branch": "A",
+        "patient": "masami",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ],
+        "griefFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ]
+      },
+      {
+        "branch": "B",
+        "patient": "kazuo",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ],
+        "griefFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ]
+      }
+    ],
+    "loops": [
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      }
+    ]
+  },
+  "journey-v12-m3-WWW-01": {
+    "PASS": true,
+    "testType": "Three.js geometry/state; DOM/WebGL renderer stubbed",
+    "stats": {
+      "triangles": 2724,
+      "bodyMeshes": 17,
+      "geometries": 11,
+      "materials": 1,
+      "height": 1.8899999985098836,
+      "headRatio": 6.749999994678155,
+      "npcs": 37
+    },
+    "gait": [
+      {
+        "running": false,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": -9.370298036899555e-15
+      },
+      {
+        "running": false,
+        "cycle": 1.5707963267948966,
+        "left": 0.45,
+        "knee": 0,
+        "chestX": -9.336465458606002e-15
+      },
+      {
+        "running": false,
+        "cycle": 3.141592653589793,
+        "left": 5.5109105961630896e-17,
+        "knee": 0,
+        "chestX": -9.370298036899555e-15
+      },
+      {
+        "running": false,
+        "cycle": 4.71238898038469,
+        "left": -0.45,
+        "knee": -0.65,
+        "chestX": -9.336465458606002e-15
+      },
+      {
+        "running": false,
+        "cycle": 6.283185307179586,
+        "left": -1.1021821192326179e-16,
+        "knee": -1.5920408388915593e-16,
+        "chestX": -9.370298036899555e-15
+      },
+      {
+        "running": true,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": -9.35929546465478e-15
+      },
+      {
+        "running": true,
+        "cycle": 1.5707963267948966,
+        "left": 0.58,
+        "knee": 0,
+        "chestX": -9.29561453243483e-15
+      },
+      {
+        "running": true,
+        "cycle": 3.141592653589793,
+        "left": 7.102951435054648e-17,
+        "knee": 0,
+        "chestX": -9.35929546465478e-15
+      },
+      {
+        "running": true,
+        "cycle": 4.71238898038469,
+        "left": -0.58,
+        "knee": -1,
+        "chestX": -9.29561453243483e-15
+      },
+      {
+        "running": true,
+        "cycle": 6.283185307179586,
+        "left": -1.4205902870109295e-16,
+        "knee": -2.4492935982947064e-16,
+        "chestX": -9.35929546465478e-15
+      }
+    ],
+    "textures": [
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      },
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      }
+    ],
+    "atlas": {
+      "pre": 262144,
+      "post": 262144,
+      "room": 262144,
+      "weak": 262144
+    },
+    "postMode": "KAZUO_LIGHT",
+    "damage": [
+      {
+        "kind": "fire",
+        "loss": 18.000000000000043
+      },
+      {
+        "kind": "smoke",
+        "loss": 12.000599999999935
+      }
+    ],
+    "escort": {
+      "frames": 516,
+      "hp": 100,
+      "minimumSeparation": 0.740187881252854,
+      "missionSequence": "1→2→3→Masami→reunion",
+      "placementSet": "v12-m3-WWW-01"
+    },
+    "endings": [
+      {
+        "branch": "A",
+        "patient": "masami",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ],
+        "griefFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ]
+      },
+      {
+        "branch": "B",
+        "patient": "kazuo",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ],
+        "griefFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ]
+      }
+    ],
+    "loops": [
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      }
+    ]
+  },
+  "journey-bridge-final": {
+    "PASS": true,
+    "testType": "Three.js geometry/state; DOM/WebGL renderer stubbed",
+    "stats": {
+      "triangles": 2724,
+      "bodyMeshes": 17,
+      "geometries": 11,
+      "materials": 1,
+      "height": 1.8899999985098836,
+      "headRatio": 6.749999994678155,
+      "npcs": 37
+    },
+    "gait": [
+      {
+        "running": false,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": 0
+      },
+      {
+        "running": false,
+        "cycle": 1.5707963267948966,
+        "left": 0.45,
+        "knee": 0,
+        "chestX": 0
+      },
+      {
+        "running": false,
+        "cycle": 3.141592653589793,
+        "left": 5.5109105961630896e-17,
+        "knee": 0,
+        "chestX": 0
+      },
+      {
+        "running": false,
+        "cycle": 4.71238898038469,
+        "left": -0.45,
+        "knee": -0.65,
+        "chestX": 0
+      },
+      {
+        "running": false,
+        "cycle": 6.283185307179586,
+        "left": -1.1021821192326179e-16,
+        "knee": -1.5920408388915593e-16,
+        "chestX": 0
+      },
+      {
+        "running": true,
+        "cycle": 0,
+        "left": 0,
+        "knee": 0,
+        "chestX": 0
+      },
+      {
+        "running": true,
+        "cycle": 1.5707963267948966,
+        "left": 0.58,
+        "knee": 0,
+        "chestX": 0
+      },
+      {
+        "running": true,
+        "cycle": 3.141592653589793,
+        "left": 7.102951435054648e-17,
+        "knee": 0,
+        "chestX": 0
+      },
+      {
+        "running": true,
+        "cycle": 4.71238898038469,
+        "left": -0.58,
+        "knee": -1,
+        "chestX": 0
+      },
+      {
+        "running": true,
+        "cycle": 6.283185307179586,
+        "left": -1.4205902870109295e-16,
+        "knee": -2.4492935982947064e-16,
+        "chestX": 0
+      }
+    ],
+    "textures": [
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      },
+      {
+        "post": true,
+        "materials": 1,
+        "mode": "KAZUO_LIGHT"
+      },
+      {
+        "post": false,
+        "materials": 1,
+        "mode": "PRE"
+      }
+    ],
+    "atlas": {
+      "pre": 262144,
+      "post": 262144,
+      "room": 262144,
+      "weak": 262144
+    },
+    "postMode": "KAZUO_LIGHT",
+    "damage": [
+      {
+        "kind": "fire",
+        "loss": 18.000000000000043
+      },
+      {
+        "kind": "smoke",
+        "loss": 12.000599999999935
+      }
+    ],
+    "escort": {
+      "frames": 2164,
+      "hp": 100,
+      "minimumSeparation": 0.7361623963986712,
+      "missionSequence": "1→2→3→Masami→reunion",
+      "placementSet": "v12-m3-EEW-01"
+    },
+    "endings": [
+      {
+        "branch": "A",
+        "patient": "masami",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ],
+        "griefFeet": [
+          -99.89096849165722,
+          -99.89096849165722
+        ]
+      },
+      {
+        "branch": "B",
+        "patient": "kazuo",
+        "triangles": 2724,
+        "seatedFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ],
+        "griefFeet": [
+          -99.5349999988079,
+          -99.5349999988079
+        ]
+      }
+    ],
+    "loops": [
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      },
+      {
+        "bodyMeshes": 17,
+        "people": 37,
+        "geometryCount": true
+      }
+    ]
+  }
+}

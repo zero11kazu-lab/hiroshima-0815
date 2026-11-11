@@ -1,0 +1,12 @@
+{
+  "version": "1.4-stage4",
+  "confidence": "gameplay_adjusted",
+  "sourceIds": ["S03", "S05"],
+  "note": "一般的な当時の木・金属・竹の生活用具を参考にした創作。実在住所の個別の家財を復元したものではない。",
+  "categories": ["crate", "bucket", "washbasin", "basket", "stool", "display"],
+  "maximumCount": 18,
+  "eastTarget": 8,
+  "detailDistance": 28,
+  "pre": {"sky": "#c4d6da", "sun": "#f8ebd6", "hemisphere": "#f1eedc", "groundLight": "#85816f"},
+  "post": {"sky": "#54524e"}
+}

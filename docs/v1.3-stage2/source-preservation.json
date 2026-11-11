@@ -1,0 +1,10 @@
+{
+  "baseline": "e7451437d485c6300ec30eba7597038f2bbc3d0a",
+  "unchangedFiles": 53,
+  "changedOnly": [
+    "src/ending.js",
+    "src/npc.js"
+  ],
+  "kazuoSHA256": "49643f325071579024a704b645964b3c542fec3ba9c585cad713cb086af70034",
+  "playerSHA256": "0f92943199c82975a7ccec19acbf8fd8c07aaba330aa78b783781c5f62defe04"
+}

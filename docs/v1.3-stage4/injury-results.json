@@ -1,0 +1,81 @@
+{
+  "PASS": true,
+  "testType": "Actual geometry/texture/state; DOM/WebGL renderer stubbed",
+  "population": 37,
+  "general": 31,
+  "important": 6,
+  "addedEast": 6,
+  "addedWest": 2,
+  "startSides": {
+    "E": 8,
+    "W": 29
+  },
+  "postSides": {
+    "E": 12,
+    "W": 25
+  },
+  "torsoClothArea": {
+    "covered": 0.7903017053990623,
+    "mild": 0.7672753235188897,
+    "light": 0.4088250595737174,
+    "severe": 0.1449288379881056
+  },
+  "skin": [
+    {
+      "variant": "CLOTHED",
+      "unique": 133,
+      "mean": 131.18229166666654,
+      "red": 41
+    },
+    {
+      "variant": "CLOTH_HALF",
+      "unique": 196,
+      "mean": 120.38541666666669,
+      "red": 106
+    },
+    {
+      "variant": "BURN_PARTIAL",
+      "unique": 204,
+      "mean": 109.50911458333333,
+      "red": 159
+    },
+    {
+      "variant": "BURN_FULL",
+      "unique": 141,
+      "mean": 94.80338541666671,
+      "red": 256
+    },
+    {
+      "variant": "BURN_UPPER",
+      "unique": 141,
+      "mean": 94.80338541666671,
+      "red": 256
+    },
+    {
+      "variant": "CHARRED",
+      "unique": 47,
+      "mean": 36.05338541666669,
+      "red": 0
+    }
+  ],
+  "postCounts": {
+    "CHARRED": 3,
+    "BURN_FULL": 9,
+    "BURN_PARTIAL": 10,
+    "CLOTHED": 3,
+    "CLOTH_HALF": 9,
+    "BURN_UPPER": 2,
+    "MASAMI_LIGHT": 1
+  },
+  "simulatedLayouts": 100,
+  "distinctLayouts": 100,
+  "lowSkinArea": {
+    "pre": 0.14797125371397513,
+    "light": 0.6928172805886564,
+    "severe": 1.2376633074633387
+  },
+  "endings": [
+    "A",
+    "B"
+  ]
+}

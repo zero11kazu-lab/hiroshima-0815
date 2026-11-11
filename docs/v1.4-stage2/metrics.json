@@ -1,0 +1,29 @@
+{
+  "note": "71 building geometry only. Counts are potential mesh batches, not real GPU draw calls/FPS. CPU init is a single Node/stub sample, not an iPhone benchmark.",
+  "before": {
+    "kinds": {
+      "shop": 19,
+      "home": 37,
+      "nagaya": 15
+    },
+    "triangles": 30252,
+    "nearMeshes": 727,
+    "farMeshes": 142,
+    "geometryBytes": 2896464,
+    "uniqueMaterials": 47,
+    "initMs": 1648.686046
+  },
+  "after": {
+    "kinds": {
+      "shop": 19,
+      "home": 37,
+      "nagaya": 15
+    },
+    "triangles": 50438,
+    "nearMeshes": 213,
+    "farMeshes": 142,
+    "geometryBytes": 5927592,
+    "uniqueMaterials": 1,
+    "initMs": 2751.2801269999995
+  }
+}

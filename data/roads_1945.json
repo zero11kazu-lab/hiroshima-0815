@@ -1,0 +1,116 @@
+[
+  {
+    "id": "tram-senda",
+    "name": "鷹野橋〜千田町 電車通り",
+    "x": 0,
+    "z": -7,
+    "w": 10,
+    "d": 114,
+    "tram": true,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "id": "tram-miyuki",
+    "name": "御幸橋へ向かう電車通り",
+    "x": 33,
+    "z": 38,
+    "w": 66,
+    "d": 6,
+    "tram": true,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "id": "lane-0",
+    "name": "街区内街路（簡略配置）",
+    "x": -26,
+    "z": -6,
+    "w": 5,
+    "d": 112,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "id": "lane-1",
+    "name": "街区内街路（簡略配置）",
+    "x": 26,
+    "z": -6,
+    "w": 5,
+    "d": 112,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "id": "lane-2",
+    "name": "街区内街路（簡略配置）",
+    "x": 0,
+    "z": 0,
+    "w": 86,
+    "d": 8,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "id": "lane-3",
+    "name": "街区内街路（簡略配置）",
+    "x": 0,
+    "z": -22,
+    "w": 86,
+    "d": 6,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "id": "lane-4",
+    "name": "街区内街路（簡略配置）",
+    "x": 0,
+    "z": 31,
+    "w": 86,
+    "d": 6,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "id": "lane-5",
+    "name": "街区内街路（簡略配置）",
+    "x": 0,
+    "z": -49,
+    "w": 86,
+    "d": 5,
+    "confidence": "gameplay_adjusted",
+    "geometryEvidence": "C: 未測量のゲーム用簡略形状",
+    "sourceIds": [
+      "S03",
+      "S05"
+    ]
+  }
+]

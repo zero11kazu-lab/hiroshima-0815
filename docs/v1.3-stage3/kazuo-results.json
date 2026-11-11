@@ -1,0 +1,174 @@
+{
+  "PASS": true,
+  "testType": "Three.js geometry/state; DOM/WebGL renderer stubbed",
+  "stats": {
+    "triangles": 2724,
+    "bodyMeshes": 17,
+    "geometries": 11,
+    "materials": 1,
+    "height": 1.8899999985098836,
+    "headRatio": 6.749999994678155,
+    "npcs": 29
+  },
+  "gait": [
+    {
+      "running": false,
+      "cycle": 0,
+      "left": 0,
+      "knee": 0,
+      "chestX": 0
+    },
+    {
+      "running": false,
+      "cycle": 1.5707963267948966,
+      "left": 0.45,
+      "knee": 0,
+      "chestX": 0
+    },
+    {
+      "running": false,
+      "cycle": 3.141592653589793,
+      "left": 5.5109105961630896e-17,
+      "knee": 0,
+      "chestX": 0
+    },
+    {
+      "running": false,
+      "cycle": 4.71238898038469,
+      "left": -0.45,
+      "knee": -0.65,
+      "chestX": 0
+    },
+    {
+      "running": false,
+      "cycle": 6.283185307179586,
+      "left": -1.1021821192326179e-16,
+      "knee": -1.5920408388915593e-16,
+      "chestX": 0
+    },
+    {
+      "running": true,
+      "cycle": 0,
+      "left": 0,
+      "knee": 0,
+      "chestX": 0
+    },
+    {
+      "running": true,
+      "cycle": 1.5707963267948966,
+      "left": 0.58,
+      "knee": 0,
+      "chestX": 0
+    },
+    {
+      "running": true,
+      "cycle": 3.141592653589793,
+      "left": 7.102951435054648e-17,
+      "knee": 0,
+      "chestX": 0
+    },
+    {
+      "running": true,
+      "cycle": 4.71238898038469,
+      "left": -0.58,
+      "knee": -1,
+      "chestX": 0
+    },
+    {
+      "running": true,
+      "cycle": 6.283185307179586,
+      "left": -1.4205902870109295e-16,
+      "knee": -2.4492935982947064e-16,
+      "chestX": 0
+    }
+  ],
+  "textures": [
+    {
+      "post": true,
+      "materials": 1,
+      "mode": "KAZUO_LIGHT"
+    },
+    {
+      "post": false,
+      "materials": 1,
+      "mode": "PRE"
+    },
+    {
+      "post": true,
+      "materials": 1,
+      "mode": "KAZUO_LIGHT"
+    },
+    {
+      "post": false,
+      "materials": 1,
+      "mode": "PRE"
+    }
+  ],
+  "atlas": {
+    "pre": 262144,
+    "post": 262144,
+    "room": 262144,
+    "weak": 262144
+  },
+  "postMode": "KAZUO_LIGHT",
+  "damage": [
+    {
+      "kind": "fire",
+      "loss": 18.000000000000043
+    },
+    {
+      "kind": "smoke",
+      "loss": 12.000599999999935
+    }
+  ],
+  "escort": {
+    "frames": 423,
+    "hp": 100,
+    "minimumSeparation": 0.7403688821876716
+  },
+  "endings": [
+    {
+      "branch": "A",
+      "patient": "masami",
+      "triangles": 2724,
+      "seatedFeet": [
+        -99.89096849165722,
+        -99.89096849165722
+      ],
+      "griefFeet": [
+        -99.89096849165722,
+        -99.89096849165722
+      ]
+    },
+    {
+      "branch": "B",
+      "patient": "kazuo",
+      "triangles": 2724,
+      "seatedFeet": [
+        -99.5349999988079,
+        -99.5349999988079
+      ],
+      "griefFeet": [
+        -99.5349999988079,
+        -99.5349999988079
+      ]
+    }
+  ],
+  "loops": [
+    {
+      "bodyMeshes": 17,
+      "people": 29,
+      "geometryCount": true
+    },
+    {
+      "bodyMeshes": 17,
+      "people": 29,
+      "geometryCount": true
+    },
+    {
+      "bodyMeshes": 17,
+      "people": 29,
+      "geometryCount": true
+    }
+  ]
+}

@@ -1,0 +1,1746 @@
+{
+  "version": "1.2",
+  "coordinateNote": "X=東、Z=南。東西は御幸橋中心X=50と京橋川の両岸。候補は河川内・橋上を除外したC配置。",
+  "source": {
+    "title": "広島平和記念資料館 学習ハンドブック 被爆体験証言 — 梶本淑子さん",
+    "publisher": "広島市",
+    "url": "https://www.city.hiroshima.lg.jp/atomicbomb-peace/1036658/1021119/1026964/1026965/1020880.html",
+    "accessed": "2026-11-10",
+    "basis": "当時14才、倒壊建物から脱出し、歩けない友人を担架で避難させたとの証言。",
+    "fiction": "ミッション3の人物・場所・台詞、肩を貸して歩く支援方法は創作であり、本人の体験の再現ではない。"
+  },
+  "sites": [
+    {
+      "id": "v12-site-01",
+      "position": {
+        "x": -22,
+        "z": -62
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-02",
+      "position": {
+        "x": -14,
+        "z": -38
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-03",
+      "position": {
+        "x": -6,
+        "z": -26
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-04",
+      "position": {
+        "x": 2,
+        "z": -50
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-05",
+      "position": {
+        "x": 26,
+        "z": -38
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-06",
+      "position": {
+        "x": -38,
+        "z": 22
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-07",
+      "position": {
+        "x": -14,
+        "z": 22
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-08",
+      "position": {
+        "x": -6,
+        "z": 46
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-09",
+      "position": {
+        "x": 10,
+        "z": 58
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-10",
+      "position": {
+        "x": 26,
+        "z": 58
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-11",
+      "position": {
+        "x": -22,
+        "z": 70
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-12",
+      "position": {
+        "x": 18,
+        "z": 78
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-13",
+      "position": {
+        "x": 86,
+        "z": -62
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-14",
+      "position": {
+        "x": 98,
+        "z": -38
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-15",
+      "position": {
+        "x": 68,
+        "z": -38
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-16",
+      "position": {
+        "x": 86,
+        "z": -26
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-17",
+      "position": {
+        "x": 78,
+        "z": -2
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-18",
+      "position": {
+        "x": 86,
+        "z": 10
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-19",
+      "position": {
+        "x": 98,
+        "z": 22
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-20",
+      "position": {
+        "x": 68,
+        "z": 46
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-21",
+      "position": {
+        "x": 86,
+        "z": 46
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-22",
+      "position": {
+        "x": 98,
+        "z": 38
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-23",
+      "position": {
+        "x": 86,
+        "z": 70
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-site-24",
+      "position": {
+        "x": 108,
+        "z": 78
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    }
+  ],
+  "mission1": [
+    {
+      "id": "v12-m1-EE-01",
+      "giver": "v12-site-19",
+      "target": "v12-site-13",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-02",
+      "giver": "v12-site-13",
+      "target": "v12-site-14",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-03",
+      "giver": "v12-site-24",
+      "target": "v12-site-16",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-04",
+      "giver": "v12-site-21",
+      "target": "v12-site-17",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-05",
+      "giver": "v12-site-15",
+      "target": "v12-site-22",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-06",
+      "giver": "v12-site-22",
+      "target": "v12-site-20",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-07",
+      "giver": "v12-site-16",
+      "target": "v12-site-21",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-08",
+      "giver": "v12-site-20",
+      "target": "v12-site-18",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-09",
+      "giver": "v12-site-18",
+      "target": "v12-site-23",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-10",
+      "giver": "v12-site-17",
+      "target": "v12-site-15",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-11",
+      "giver": "v12-site-14",
+      "target": "v12-site-24",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-12",
+      "giver": "v12-site-23",
+      "target": "v12-site-19",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-13",
+      "giver": "v12-site-14",
+      "target": "v12-site-19",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-14",
+      "giver": "v12-site-23",
+      "target": "v12-site-24",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-15",
+      "giver": "v12-site-17",
+      "target": "v12-site-23",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EE-16",
+      "giver": "v12-site-18",
+      "target": "v12-site-15",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m1-EW-01",
+      "giver": "v12-site-20",
+      "target": "v12-site-09",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-02",
+      "giver": "v12-site-22",
+      "target": "v12-site-07",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-03",
+      "giver": "v12-site-14",
+      "target": "v12-site-10",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-04",
+      "giver": "v12-site-19",
+      "target": "v12-site-11",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-05",
+      "giver": "v12-site-15",
+      "target": "v12-site-08",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-06",
+      "giver": "v12-site-23",
+      "target": "v12-site-12",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-07",
+      "giver": "v12-site-18",
+      "target": "v12-site-06",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-08",
+      "giver": "v12-site-17",
+      "target": "v12-site-06",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-09",
+      "giver": "v12-site-16",
+      "target": "v12-site-12",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-10",
+      "giver": "v12-site-21",
+      "target": "v12-site-08",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-11",
+      "giver": "v12-site-24",
+      "target": "v12-site-10",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-12",
+      "giver": "v12-site-13",
+      "target": "v12-site-10",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-13",
+      "giver": "v12-site-24",
+      "target": "v12-site-07",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-14",
+      "giver": "v12-site-21",
+      "target": "v12-site-11",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-15",
+      "giver": "v12-site-16",
+      "target": "v12-site-09",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-EW-16",
+      "giver": "v12-site-17",
+      "target": "v12-site-09",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m1-WE-01",
+      "giver": "v12-site-12",
+      "target": "v12-site-16",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-02",
+      "giver": "v12-site-08",
+      "target": "v12-site-17",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-03",
+      "giver": "v12-site-10",
+      "target": "v12-site-15",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-04",
+      "giver": "v12-site-11",
+      "target": "v12-site-20",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-05",
+      "giver": "v12-site-07",
+      "target": "v12-site-21",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-06",
+      "giver": "v12-site-09",
+      "target": "v12-site-18",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-07",
+      "giver": "v12-site-06",
+      "target": "v12-site-22",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-08",
+      "giver": "v12-site-06",
+      "target": "v12-site-23",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-09",
+      "giver": "v12-site-09",
+      "target": "v12-site-24",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-10",
+      "giver": "v12-site-07",
+      "target": "v12-site-19",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-11",
+      "giver": "v12-site-10",
+      "target": "v12-site-14",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-12",
+      "giver": "v12-site-10",
+      "target": "v12-site-13",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-13",
+      "giver": "v12-site-11",
+      "target": "v12-site-19",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-14",
+      "giver": "v12-site-08",
+      "target": "v12-site-24",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-15",
+      "giver": "v12-site-12",
+      "target": "v12-site-23",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WE-16",
+      "giver": "v12-site-12",
+      "target": "v12-site-22",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m1-WW-01",
+      "giver": "v12-site-05",
+      "target": "v12-site-06",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-02",
+      "giver": "v12-site-08",
+      "target": "v12-site-02",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-03",
+      "giver": "v12-site-03",
+      "target": "v12-site-08",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-04",
+      "giver": "v12-site-07",
+      "target": "v12-site-10",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-05",
+      "giver": "v12-site-02",
+      "target": "v12-site-05",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-06",
+      "giver": "v12-site-01",
+      "target": "v12-site-07",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-07",
+      "giver": "v12-site-04",
+      "target": "v12-site-01",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-08",
+      "giver": "v12-site-06",
+      "target": "v12-site-04",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-09",
+      "giver": "v12-site-12",
+      "target": "v12-site-09",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-10",
+      "giver": "v12-site-11",
+      "target": "v12-site-03",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-11",
+      "giver": "v12-site-09",
+      "target": "v12-site-12",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-12",
+      "giver": "v12-site-10",
+      "target": "v12-site-11",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-13",
+      "giver": "v12-site-10",
+      "target": "v12-site-12",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-14",
+      "giver": "v12-site-09",
+      "target": "v12-site-11",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-15",
+      "giver": "v12-site-11",
+      "target": "v12-site-09",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m1-WW-16",
+      "giver": "v12-site-06",
+      "target": "v12-site-03",
+      "sides": "WW"
+    }
+  ],
+  "mission2": [
+    {
+      "id": "v12-m2-EE-01",
+      "giver": "v12-site-15",
+      "target": "v12-site-24",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-02",
+      "giver": "v12-site-24",
+      "target": "v12-site-21",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-03",
+      "giver": "v12-site-20",
+      "target": "v12-site-17",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-04",
+      "giver": "v12-site-23",
+      "target": "v12-site-18",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-05",
+      "giver": "v12-site-17",
+      "target": "v12-site-20",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-06",
+      "giver": "v12-site-21",
+      "target": "v12-site-14",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-07",
+      "giver": "v12-site-19",
+      "target": "v12-site-23",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-08",
+      "giver": "v12-site-16",
+      "target": "v12-site-19",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-09",
+      "giver": "v12-site-22",
+      "target": "v12-site-15",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-10",
+      "giver": "v12-site-18",
+      "target": "v12-site-13",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-11",
+      "giver": "v12-site-14",
+      "target": "v12-site-22",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-12",
+      "giver": "v12-site-13",
+      "target": "v12-site-22",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-13",
+      "giver": "v12-site-22",
+      "target": "v12-site-16",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-14",
+      "giver": "v12-site-19",
+      "target": "v12-site-16",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-15",
+      "giver": "v12-site-13",
+      "target": "v12-site-19",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EE-16",
+      "giver": "v12-site-14",
+      "target": "v12-site-23",
+      "sides": "EE"
+    },
+    {
+      "id": "v12-m2-EW-01",
+      "giver": "v12-site-18",
+      "target": "v12-site-11",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-02",
+      "giver": "v12-site-21",
+      "target": "v12-site-08",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-03",
+      "giver": "v12-site-15",
+      "target": "v12-site-10",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-04",
+      "giver": "v12-site-20",
+      "target": "v12-site-07",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-05",
+      "giver": "v12-site-22",
+      "target": "v12-site-12",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-06",
+      "giver": "v12-site-23",
+      "target": "v12-site-06",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-07",
+      "giver": "v12-site-14",
+      "target": "v12-site-09",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-08",
+      "giver": "v12-site-19",
+      "target": "v12-site-09",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-09",
+      "giver": "v12-site-17",
+      "target": "v12-site-06",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-10",
+      "giver": "v12-site-16",
+      "target": "v12-site-12",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-11",
+      "giver": "v12-site-24",
+      "target": "v12-site-07",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-12",
+      "giver": "v12-site-13",
+      "target": "v12-site-10",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-13",
+      "giver": "v12-site-24",
+      "target": "v12-site-08",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-14",
+      "giver": "v12-site-17",
+      "target": "v12-site-11",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-15",
+      "giver": "v12-site-19",
+      "target": "v12-site-11",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-EW-16",
+      "giver": "v12-site-16",
+      "target": "v12-site-08",
+      "sides": "EW"
+    },
+    {
+      "id": "v12-m2-WE-01",
+      "giver": "v12-site-11",
+      "target": "v12-site-19",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-02",
+      "giver": "v12-site-12",
+      "target": "v12-site-24",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-03",
+      "giver": "v12-site-10",
+      "target": "v12-site-15",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-04",
+      "giver": "v12-site-09",
+      "target": "v12-site-23",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-05",
+      "giver": "v12-site-07",
+      "target": "v12-site-17",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-06",
+      "giver": "v12-site-08",
+      "target": "v12-site-20",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-07",
+      "giver": "v12-site-06",
+      "target": "v12-site-22",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-08",
+      "giver": "v12-site-06",
+      "target": "v12-site-21",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-09",
+      "giver": "v12-site-08",
+      "target": "v12-site-16",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-10",
+      "giver": "v12-site-07",
+      "target": "v12-site-18",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-11",
+      "giver": "v12-site-09",
+      "target": "v12-site-14",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-12",
+      "giver": "v12-site-10",
+      "target": "v12-site-13",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-13",
+      "giver": "v12-site-12",
+      "target": "v12-site-18",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-14",
+      "giver": "v12-site-11",
+      "target": "v12-site-21",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-15",
+      "giver": "v12-site-11",
+      "target": "v12-site-22",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WE-16",
+      "giver": "v12-site-12",
+      "target": "v12-site-16",
+      "sides": "WE"
+    },
+    {
+      "id": "v12-m2-WW-01",
+      "giver": "v12-site-01",
+      "target": "v12-site-03",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-02",
+      "giver": "v12-site-10",
+      "target": "v12-site-11",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-03",
+      "giver": "v12-site-11",
+      "target": "v12-site-04",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-04",
+      "giver": "v12-site-08",
+      "target": "v12-site-02",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-05",
+      "giver": "v12-site-02",
+      "target": "v12-site-08",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-06",
+      "giver": "v12-site-07",
+      "target": "v12-site-01",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-07",
+      "giver": "v12-site-09",
+      "target": "v12-site-07",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-08",
+      "giver": "v12-site-05",
+      "target": "v12-site-06",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-09",
+      "giver": "v12-site-06",
+      "target": "v12-site-10",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-10",
+      "giver": "v12-site-03",
+      "target": "v12-site-09",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-11",
+      "giver": "v12-site-06",
+      "target": "v12-site-12",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-12",
+      "giver": "v12-site-04",
+      "target": "v12-site-06",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-13",
+      "giver": "v12-site-12",
+      "target": "v12-site-07",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-14",
+      "giver": "v12-site-07",
+      "target": "v12-site-05",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-15",
+      "giver": "v12-site-08",
+      "target": "v12-site-05",
+      "sides": "WW"
+    },
+    {
+      "id": "v12-m2-WW-16",
+      "giver": "v12-site-12",
+      "target": "v12-site-08",
+      "sides": "WW"
+    }
+  ],
+  "mission3": [
+    {
+      "id": "v12-m3-EEE-01",
+      "giver": "v12-site-21",
+      "target": "v12-site-17",
+      "shelter": "v12-site-24",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-02",
+      "giver": "v12-site-24",
+      "target": "v12-site-16",
+      "shelter": "v12-site-18",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-03",
+      "giver": "v12-site-18",
+      "target": "v12-site-19",
+      "shelter": "v12-site-24",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-04",
+      "giver": "v12-site-22",
+      "target": "v12-site-15",
+      "shelter": "v12-site-23",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-05",
+      "giver": "v12-site-23",
+      "target": "v12-site-20",
+      "shelter": "v12-site-18",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-06",
+      "giver": "v12-site-16",
+      "target": "v12-site-21",
+      "shelter": "v12-site-13",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-07",
+      "giver": "v12-site-13",
+      "target": "v12-site-22",
+      "shelter": "v12-site-24",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-08",
+      "giver": "v12-site-19",
+      "target": "v12-site-23",
+      "shelter": "v12-site-15",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-09",
+      "giver": "v12-site-15",
+      "target": "v12-site-13",
+      "shelter": "v12-site-23",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-10",
+      "giver": "v12-site-20",
+      "target": "v12-site-18",
+      "shelter": "v12-site-13",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-11",
+      "giver": "v12-site-14",
+      "target": "v12-site-24",
+      "shelter": "v12-site-23",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-EEE-12",
+      "giver": "v12-site-17",
+      "target": "v12-site-14",
+      "shelter": "v12-site-20",
+      "sides": "EEE"
+    },
+    {
+      "id": "v12-m3-WWW-01",
+      "giver": "v12-site-02",
+      "target": "v12-site-07",
+      "shelter": "v12-site-08",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-02",
+      "giver": "v12-site-07",
+      "target": "v12-site-04",
+      "shelter": "v12-site-01",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-03",
+      "giver": "v12-site-09",
+      "target": "v12-site-06",
+      "shelter": "v12-site-12",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-04",
+      "giver": "v12-site-12",
+      "target": "v12-site-10",
+      "shelter": "v12-site-11",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-05",
+      "giver": "v12-site-01",
+      "target": "v12-site-05",
+      "shelter": "v12-site-03",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-06",
+      "giver": "v12-site-11",
+      "target": "v12-site-09",
+      "shelter": "v12-site-08",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-07",
+      "giver": "v12-site-10",
+      "target": "v12-site-11",
+      "shelter": "v12-site-08",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-08",
+      "giver": "v12-site-08",
+      "target": "v12-site-12",
+      "shelter": "v12-site-10",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-09",
+      "giver": "v12-site-05",
+      "target": "v12-site-03",
+      "shelter": "v12-site-01",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-10",
+      "giver": "v12-site-04",
+      "target": "v12-site-02",
+      "shelter": "v12-site-01",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-11",
+      "giver": "v12-site-06",
+      "target": "v12-site-08",
+      "shelter": "v12-site-10",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-WWW-12",
+      "giver": "v12-site-06",
+      "target": "v12-site-01",
+      "shelter": "v12-site-03",
+      "sides": "WWW"
+    },
+    {
+      "id": "v12-m3-EWW-01",
+      "giver": "v12-site-21",
+      "target": "v12-site-06",
+      "shelter": "v12-site-08",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-02",
+      "giver": "v12-site-20",
+      "target": "v12-site-09",
+      "shelter": "v12-site-11",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-03",
+      "giver": "v12-site-19",
+      "target": "v12-site-07",
+      "shelter": "v12-site-03",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-04",
+      "giver": "v12-site-15",
+      "target": "v12-site-10",
+      "shelter": "v12-site-11",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-05",
+      "giver": "v12-site-17",
+      "target": "v12-site-08",
+      "shelter": "v12-site-11",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-06",
+      "giver": "v12-site-22",
+      "target": "v12-site-12",
+      "shelter": "v12-site-08",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-07",
+      "giver": "v12-site-18",
+      "target": "v12-site-12",
+      "shelter": "v12-site-10",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-08",
+      "giver": "v12-site-23",
+      "target": "v12-site-08",
+      "shelter": "v12-site-12",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-09",
+      "giver": "v12-site-24",
+      "target": "v12-site-10",
+      "shelter": "v12-site-12",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-10",
+      "giver": "v12-site-20",
+      "target": "v12-site-11",
+      "shelter": "v12-site-08",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-11",
+      "giver": "v12-site-21",
+      "target": "v12-site-11",
+      "shelter": "v12-site-08",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-EWW-12",
+      "giver": "v12-site-16",
+      "target": "v12-site-10",
+      "shelter": "v12-site-08",
+      "sides": "EWW"
+    },
+    {
+      "id": "v12-m3-WEE-01",
+      "giver": "v12-site-08",
+      "target": "v12-site-22",
+      "shelter": "v12-site-15",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-02",
+      "giver": "v12-site-09",
+      "target": "v12-site-20",
+      "shelter": "v12-site-13",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-03",
+      "giver": "v12-site-06",
+      "target": "v12-site-21",
+      "shelter": "v12-site-13",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-04",
+      "giver": "v12-site-10",
+      "target": "v12-site-24",
+      "shelter": "v12-site-23",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-05",
+      "giver": "v12-site-07",
+      "target": "v12-site-23",
+      "shelter": "v12-site-24",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-06",
+      "giver": "v12-site-12",
+      "target": "v12-site-19",
+      "shelter": "v12-site-23",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-07",
+      "giver": "v12-site-12",
+      "target": "v12-site-18",
+      "shelter": "v12-site-24",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-08",
+      "giver": "v12-site-07",
+      "target": "v12-site-17",
+      "shelter": "v12-site-20",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-09",
+      "giver": "v12-site-10",
+      "target": "v12-site-16",
+      "shelter": "v12-site-13",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-10",
+      "giver": "v12-site-11",
+      "target": "v12-site-21",
+      "shelter": "v12-site-24",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-11",
+      "giver": "v12-site-11",
+      "target": "v12-site-20",
+      "shelter": "v12-site-24",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-WEE-12",
+      "giver": "v12-site-10",
+      "target": "v12-site-15",
+      "shelter": "v12-site-20",
+      "sides": "WEE"
+    },
+    {
+      "id": "v12-m3-EEW-01",
+      "giver": "v12-site-16",
+      "target": "v12-site-23",
+      "shelter": "v12-site-08",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-02",
+      "giver": "v12-site-14",
+      "target": "v12-site-15",
+      "shelter": "v12-site-10",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-03",
+      "giver": "v12-site-20",
+      "target": "v12-site-17",
+      "shelter": "v12-site-10",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-04",
+      "giver": "v12-site-19",
+      "target": "v12-site-20",
+      "shelter": "v12-site-11",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-05",
+      "giver": "v12-site-24",
+      "target": "v12-site-22",
+      "shelter": "v12-site-10",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-06",
+      "giver": "v12-site-13",
+      "target": "v12-site-19",
+      "shelter": "v12-site-12",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-07",
+      "giver": "v12-site-21",
+      "target": "v12-site-24",
+      "shelter": "v12-site-10",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-08",
+      "giver": "v12-site-22",
+      "target": "v12-site-18",
+      "shelter": "v12-site-12",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-09",
+      "giver": "v12-site-17",
+      "target": "v12-site-16",
+      "shelter": "v12-site-10",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-10",
+      "giver": "v12-site-23",
+      "target": "v12-site-21",
+      "shelter": "v12-site-12",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-11",
+      "giver": "v12-site-15",
+      "target": "v12-site-21",
+      "shelter": "v12-site-12",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-EEW-12",
+      "giver": "v12-site-18",
+      "target": "v12-site-16",
+      "shelter": "v12-site-10",
+      "sides": "EEW"
+    },
+    {
+      "id": "v12-m3-WWE-01",
+      "giver": "v12-site-10",
+      "target": "v12-site-07",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-02",
+      "giver": "v12-site-08",
+      "target": "v12-site-10",
+      "shelter": "v12-site-24",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-03",
+      "giver": "v12-site-09",
+      "target": "v12-site-06",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-04",
+      "giver": "v12-site-11",
+      "target": "v12-site-08",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-05",
+      "giver": "v12-site-07",
+      "target": "v12-site-12",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-06",
+      "giver": "v12-site-06",
+      "target": "v12-site-11",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-07",
+      "giver": "v12-site-12",
+      "target": "v12-site-09",
+      "shelter": "v12-site-23",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-08",
+      "giver": "v12-site-02",
+      "target": "v12-site-08",
+      "shelter": "v12-site-23",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-09",
+      "giver": "v12-site-04",
+      "target": "v12-site-06",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-10",
+      "giver": "v12-site-01",
+      "target": "v12-site-07",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-11",
+      "giver": "v12-site-03",
+      "target": "v12-site-07",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    },
+    {
+      "id": "v12-m3-WWE-12",
+      "giver": "v12-site-05",
+      "target": "v12-site-06",
+      "shelter": "v12-site-20",
+      "sides": "WWE"
+    }
+  ],
+  "masami": [
+    {
+      "id": "v12-masami-01",
+      "position": {
+        "x": -22,
+        "z": -62
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-02",
+      "position": {
+        "x": -14,
+        "z": -38
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-04",
+      "position": {
+        "x": 2,
+        "z": -50
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-05",
+      "position": {
+        "x": 26,
+        "z": -38
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-07",
+      "position": {
+        "x": -14,
+        "z": 22
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-08",
+      "position": {
+        "x": -6,
+        "z": 46
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-09",
+      "position": {
+        "x": 10,
+        "z": 58
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-11",
+      "position": {
+        "x": -22,
+        "z": 70
+      },
+      "side": "W",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-13",
+      "position": {
+        "x": 86,
+        "z": -62
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-14",
+      "position": {
+        "x": 98,
+        "z": -38
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-16",
+      "position": {
+        "x": 86,
+        "z": -26
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-17",
+      "position": {
+        "x": 78,
+        "z": -2
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-19",
+      "position": {
+        "x": 98,
+        "z": 22
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-21",
+      "position": {
+        "x": 86,
+        "z": 46
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-23",
+      "position": {
+        "x": 86,
+        "z": 70
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    },
+    {
+      "id": "v12-masami-24",
+      "position": {
+        "x": 108,
+        "z": 78
+      },
+      "side": "E",
+      "confidence": "gameplay_adjusted",
+      "coverType": "street-remains"
+    }
+  ],
+  "authoringValidation": {
+    "safeSites": [
+      "v12-site-01",
+      "v12-site-02",
+      "v12-site-03",
+      "v12-site-04",
+      "v12-site-05",
+      "v12-site-06",
+      "v12-site-07",
+      "v12-site-08",
+      "v12-site-09",
+      "v12-site-10",
+      "v12-site-11",
+      "v12-site-12",
+      "v12-site-13",
+      "v12-site-14",
+      "v12-site-15",
+      "v12-site-16",
+      "v12-site-17",
+      "v12-site-18",
+      "v12-site-19",
+      "v12-site-20",
+      "v12-site-21",
+      "v12-site-22",
+      "v12-site-23",
+      "v12-site-24"
+    ],
+    "excluded": [],
+    "graphNodes": 3989,
+    "groups": [
+      {
+        "EE": 16,
+        "EW": 16,
+        "WE": 16,
+        "WW": 16
+      },
+      {
+        "EE": 16,
+        "EW": 16,
+        "WE": 16,
+        "WW": 16
+      },
+      {
+        "EEE": 12,
+        "WWW": 12,
+        "EWW": 12,
+        "WEE": 12,
+        "EEW": 12,
+        "WWE": 12
+      }
+    ]
+  }
+}

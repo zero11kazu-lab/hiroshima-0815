@@ -1,0 +1,228 @@
+{
+  "hall": {
+    "PASS": true,
+    "testType": "Real mesh bounds/collision/navigation/state; renderer stubbed",
+    "position": {
+      "x": -13.5,
+      "z": -56.61107441745099
+    },
+    "westShift": 2.421325969243636,
+    "roadWestEdge": -5,
+    "preRoadGap": 0.3000001907348633,
+    "postRoadGap": 0.3000001907348633,
+    "overlaps": [],
+    "routes": [
+      {
+        "x": -4.7,
+        "waypoints": 21
+      },
+      {
+        "x": -22.3,
+        "waypoints": 21
+      }
+    ],
+    "npcs": 37,
+    "unchangedScale": true
+  },
+  "corridor": {
+    "PASS": true,
+    "testType": "Real geometry/navigation/state; renderer stubbed",
+    "moved": [
+      {
+        "type": "building",
+        "id": "block-34",
+        "from": {
+          "x": 10,
+          "z": 38
+        },
+        "to": {
+          "x": 11.072996771088706,
+          "z": 43.39431904221777
+        }
+      },
+      {
+        "type": "building",
+        "id": "cityhall",
+        "from": {
+          "x": -9,
+          "z": -58
+        },
+        "to": {
+          "x": -13.5,
+          "z": -56.61107441745099
+        }
+      },
+      {
+        "type": "garden-with-laundry-and-three-fences",
+        "from": {
+          "x": 20,
+          "z": 38
+        },
+        "to": {
+          "x": 20,
+          "z": 44
+        }
+      },
+      {
+        "type": "pole",
+        "from": {
+          "x": 5.9,
+          "z": 37
+        },
+        "to": {
+          "x": 5.9,
+          "z": 35
+        }
+      }
+    ],
+    "preConflicts": 0,
+    "postBuildingDomesticConflicts": [],
+    "south": {
+      "start": 50,
+      "playableEnd": 81,
+      "sceneryEnd": 167,
+      "width": 10
+    },
+    "samples": [
+      {
+        "z": 49,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999987343
+      },
+      {
+        "z": 49.99,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999987345
+      },
+      {
+        "z": 50,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000003663
+      },
+      {
+        "z": 50.01,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000003661
+      },
+      {
+        "z": 51,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000002997
+      },
+      {
+        "z": 60,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000001443
+      },
+      {
+        "z": 70,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999999222
+      },
+      {
+        "z": 80,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999996558
+      },
+      {
+        "z": 81,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000009547
+      },
+      {
+        "z": 82,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000009547
+      },
+      {
+        "z": 100,
+        "railY": 0.03999999910593055,
+        "roadY": 0.015000000000005329
+      },
+      {
+        "z": 140,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999996447
+      },
+      {
+        "z": 165,
+        "railY": 0.03999999910593055,
+        "roadY": 0.014999999999990896
+      }
+    ],
+    "southWalkWaypoints": 60,
+    "railTriangles": 2221,
+    "npcs": 37
+  },
+  "landmarks": {
+    "PASS": true,
+    "testType": "Actual geometry/visibility/camera; DOM/WebGLRenderer stubbed",
+    "stats": {
+      "tramPre": 916,
+      "cityhall": {
+        "pre": 3266,
+        "post": 3108
+      },
+      "bunrika": {
+        "pre": 3110,
+        "post": 2976
+      },
+      "hiroden-senda": {
+        "pre": 2102,
+        "post": 2040
+      },
+      "tramPost": 840
+    },
+    "bypassViews": [
+      {
+        "x": 3.5,
+        "z": -55
+      },
+      {
+        "x": -0.25,
+        "z": -51
+      },
+      {
+        "x": 50,
+        "z": 38
+      },
+      {
+        "x": 5,
+        "z": -58
+      }
+    ],
+    "sharedMaterial": true,
+    "unchangedTramCollider": {
+      "x": 1.2,
+      "z": -55,
+      "w": 1.23,
+      "d": 3.1799999999999997,
+      "tram": true
+    },
+    "railDetails": 3
+  },
+  "preservation": {
+    "PASS": true,
+    "sourceMapNPCAndBuildingGeometryUnchanged": true,
+    "collisionChanges": [
+      {
+        "i": 37,
+        "before": {
+          "x": -11.078674030756364,
+          "z": -56.61107441745099,
+          "w": 8.28,
+          "d": 3.7800000000000002,
+          "buildingId": "cityhall"
+        },
+        "after": {
+          "x": -13.5,
+          "z": -56.61107441745099,
+          "w": 8.28,
+          "d": 3.7800000000000002,
+          "buildingId": "cityhall"
+        }
+      }
+    ],
+    "treesChanged": []
+  }
+}

@@ -1,0 +1,1 @@
+[{"case":"delayed portrait layout","canvasWidth":844,"visibleWidth":390,"bodyPixelX":422,"expectedPixelX":195},{"case":"actor transform differs from logical position","bodyNdcX":0.21020296974894123}]

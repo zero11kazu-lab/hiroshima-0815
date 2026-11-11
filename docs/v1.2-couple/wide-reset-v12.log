@@ -1,0 +1,173 @@
+{
+  "PASS": true,
+  "runs": [
+    {
+      "ids": [
+        "v12-m1-EE-13",
+        "v12-m2-EE-10",
+        "v12-m3-EEE-01"
+      ],
+      "seed": 2648820714,
+      "storage": true,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-09",
+        "v12-m2-WE-05",
+        "v12-m3-EEE-07"
+      ],
+      "seed": 881356349,
+      "storage": true,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-03",
+        "v12-m2-WE-01",
+        "v12-m3-WEE-08"
+      ],
+      "seed": 1685258162,
+      "storage": true,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-02",
+        "v12-m2-WE-07",
+        "v12-m3-EEE-08"
+      ],
+      "seed": 874575229,
+      "storage": true,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-09",
+        "v12-m2-EE-12",
+        "v12-m3-WEE-10"
+      ],
+      "seed": 2702429293,
+      "storage": true,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-15",
+        "v12-m2-EE-01",
+        "v12-m3-EEE-06"
+      ],
+      "seed": 2241449478,
+      "storage": true,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-10",
+        "v12-m2-EW-04",
+        "v12-m3-EEE-07"
+      ],
+      "seed": 1616352946,
+      "storage": false,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-WE-08",
+        "v12-m2-WE-10",
+        "v12-m3-EEE-06"
+      ],
+      "seed": 3041249202,
+      "storage": false,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-14",
+        "v12-m2-WW-11",
+        "v12-m3-EEE-12"
+      ],
+      "seed": 3556715094,
+      "storage": false,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-WE-12",
+        "v12-m2-EE-02",
+        "v12-m3-WEE-06"
+      ],
+      "seed": 208274558,
+      "storage": false,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EW-03",
+        "v12-m2-WE-15",
+        "v12-m3-EEE-08"
+      ],
+      "seed": 1460661469,
+      "storage": false,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    },
+    {
+      "ids": [
+        "v12-m1-EE-08",
+        "v12-m2-WE-12",
+        "v12-m3-EEW-10"
+      ],
+      "seed": 3295769706,
+      "storage": false,
+      "people": 29,
+      "buildings": 79,
+      "missions": 3,
+      "children": 228,
+      "fires": 46
+    }
+  ]
+}

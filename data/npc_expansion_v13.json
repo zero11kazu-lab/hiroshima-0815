@@ -1,0 +1,170 @@
+{
+  "version": "1.3-stage4",
+  "activeCount": 8,
+  "targetEastShare": 0.75,
+  "sideReference": "placementSide: x > 御幸橋.x (50) is E; +X is geographic east",
+  "confidence": "gameplay_adjusted",
+  "notes": "Fictional civilians on existing authored streets. No new bridge traffic on the narrow deck.",
+  "people": [
+    {
+      "id": "v13-east-01",
+      "name": "山田 正夫",
+      "type": "man",
+      "side": "E",
+      "route": [
+        [
+          86,
+          -70
+        ],
+        [
+          86,
+          -45
+        ]
+      ],
+      "startFraction": 0.21,
+      "dialogueTemplate": 0,
+      "speed": 0.72,
+      "pause": 2.2
+    },
+    {
+      "id": "v13-east-02",
+      "name": "石田 ハル",
+      "type": "woman",
+      "side": "E",
+      "route": [
+        [
+          86,
+          -35
+        ],
+        [
+          86,
+          -5
+        ]
+      ],
+      "startFraction": 0.74,
+      "dialogueTemplate": 5,
+      "speed": 0.68,
+      "pause": 3.0
+    },
+    {
+      "id": "v13-west-01",
+      "name": "木村 清治",
+      "type": "man",
+      "side": "W",
+      "route": [
+        [
+          -26,
+          -76
+        ],
+        [
+          -26,
+          -66
+        ]
+      ],
+      "startFraction": 0.25,
+      "dialogueTemplate": 0,
+      "speed": 0.66,
+      "pause": 3.6
+    },
+    {
+      "id": "v13-east-03",
+      "name": "吉田 トミ",
+      "type": "woman",
+      "side": "E",
+      "route": [
+        [
+          86,
+          2
+        ],
+        [
+          86,
+          27
+        ]
+      ],
+      "startFraction": 0.24,
+      "dialogueTemplate": 1,
+      "speed": 0.67,
+      "pause": 2.6
+    },
+    {
+      "id": "v13-west-02",
+      "name": "佐野 文吉",
+      "type": "man",
+      "side": "W",
+      "route": [
+        [
+          2,
+          45
+        ],
+        [
+          2,
+          65
+        ]
+      ],
+      "startFraction": 0.7,
+      "dialogueTemplate": 0,
+      "speed": 0.73,
+      "pause": 2.8
+    },
+    {
+      "id": "v13-east-04",
+      "name": "川本 サエ",
+      "type": "woman",
+      "side": "E",
+      "route": [
+        [
+          86,
+          43
+        ],
+        [
+          86,
+          62
+        ]
+      ],
+      "startFraction": 0.23,
+      "dialogueTemplate": 5,
+      "speed": 0.71,
+      "pause": 2.1
+    },
+    {
+      "id": "v13-east-05",
+      "name": "原田 栄一",
+      "type": "man",
+      "side": "E",
+      "route": [
+        [
+          92,
+          -37
+        ],
+        [
+          104,
+          -37
+        ]
+      ],
+      "startFraction": 0.22,
+      "dialogueTemplate": 0,
+      "speed": 0.69,
+      "pause": 2.4
+    },
+    {
+      "id": "v13-east-06",
+      "name": "井田 フミ",
+      "type": "woman",
+      "side": "E",
+      "route": [
+        [
+          68,
+          38
+        ],
+        [
+          80,
+          38
+        ]
+      ],
+      "startFraction": 0.75,
+      "dialogueTemplate": 1,
+      "speed": 0.7,
+      "pause": 3.2
+    }
+  ]
+}

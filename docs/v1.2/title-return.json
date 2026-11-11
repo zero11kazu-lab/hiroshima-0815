@@ -1,0 +1,232 @@
+{
+  "PASS": true,
+  "loads": 1,
+  "cycles": [
+    {
+      "before": {
+        "mission1Set": "v12-m1-EE-08",
+        "mission2Set": "v12-m2-WE-02",
+        "mission3Set": "v12-m3-EEE-06",
+        "mother": {
+          "x": 68,
+          "z": 46
+        },
+        "child": {
+          "x": 86,
+          "z": 10
+        },
+        "man": {
+          "x": 18,
+          "z": 78
+        },
+        "water": {
+          "x": 108,
+          "z": 78
+        },
+        "requester": {
+          "x": 86,
+          "z": -26
+        },
+        "evacuee": {
+          "x": 86,
+          "z": 46
+        },
+        "shelter": {
+          "x": 86,
+          "z": -62
+        },
+        "siteIds": [
+          "v12-site-20",
+          "v12-site-18",
+          "v12-site-12",
+          "v12-site-24",
+          "v12-site-16",
+          "v12-site-21",
+          "v12-site-13"
+        ],
+        "sides": [
+          "EE",
+          "WE",
+          "EEE"
+        ],
+        "crossings": [
+          false,
+          true,
+          false
+        ],
+        "routeLengths": [
+          54,
+          166,
+          72,
+          108
+        ]
+      },
+      "returned": {
+        "history": "{\"hiroshima.lastMission1Set\":\"v12-m1-EE-08\",\"hiroshima.lastMission2Set\":\"v12-m2-WE-02\",\"hiroshima.lastMission3Set\":\"v12-m3-EEE-06\"}",
+        "sameContext": true,
+        "time": 27900,
+        "hp": 100,
+        "heat": 0,
+        "stamina": 100,
+        "world": "PRE_BLAST",
+        "ending": false,
+        "music": "",
+        "started": false,
+        "mission": "inactive",
+        "postPlan": null,
+        "hidden": false
+      }
+    },
+    {
+      "before": {
+        "mission1Set": "v12-m1-WE-07",
+        "mission2Set": "v12-m2-EE-04",
+        "mission3Set": "v12-m3-EEE-12",
+        "mother": {
+          "x": -38,
+          "z": 22
+        },
+        "child": {
+          "x": 98,
+          "z": 38
+        },
+        "man": {
+          "x": 86,
+          "z": 70
+        },
+        "water": {
+          "x": 86,
+          "z": 10
+        },
+        "requester": {
+          "x": 78,
+          "z": -2
+        },
+        "evacuee": {
+          "x": 98,
+          "z": -38
+        },
+        "shelter": {
+          "x": 68,
+          "z": 46
+        },
+        "siteIds": [
+          "v12-site-06",
+          "v12-site-22",
+          "v12-site-23",
+          "v12-site-18",
+          "v12-site-17",
+          "v12-site-14",
+          "v12-site-20"
+        ],
+        "sides": [
+          "WE",
+          "EE",
+          "EEE"
+        ],
+        "crossings": [
+          true,
+          false,
+          false
+        ],
+        "routeLengths": [
+          152,
+          60,
+          56,
+          114
+        ]
+      },
+      "returned": {
+        "history": "{\"hiroshima.lastMission1Set\":\"v12-m1-WE-07\",\"hiroshima.lastMission2Set\":\"v12-m2-EE-04\",\"hiroshima.lastMission3Set\":\"v12-m3-EEE-12\"}",
+        "sameContext": true,
+        "time": 27900,
+        "hp": 100,
+        "heat": 0,
+        "stamina": 100,
+        "world": "PRE_BLAST",
+        "ending": false,
+        "music": "",
+        "started": false,
+        "mission": "inactive",
+        "postPlan": null,
+        "hidden": false
+      }
+    },
+    {
+      "before": {
+        "mission1Set": "v12-m1-WE-05",
+        "mission2Set": "v12-m2-EE-15",
+        "mission3Set": "v12-m3-EWW-09",
+        "mother": {
+          "x": -14,
+          "z": 22
+        },
+        "child": {
+          "x": 86,
+          "z": 46
+        },
+        "man": {
+          "x": 86,
+          "z": -62
+        },
+        "water": {
+          "x": 98,
+          "z": 22
+        },
+        "requester": {
+          "x": 108,
+          "z": 78
+        },
+        "evacuee": {
+          "x": 26,
+          "z": 58
+        },
+        "shelter": {
+          "x": 18,
+          "z": 78
+        },
+        "siteIds": [
+          "v12-site-07",
+          "v12-site-21",
+          "v12-site-13",
+          "v12-site-19",
+          "v12-site-24",
+          "v12-site-10",
+          "v12-site-12"
+        ],
+        "sides": [
+          "WE",
+          "EE",
+          "EWW"
+        ],
+        "crossings": [
+          true,
+          false,
+          true
+        ],
+        "routeLengths": [
+          124,
+          96,
+          138,
+          28
+        ]
+      },
+      "returned": {
+        "history": "{\"hiroshima.lastMission1Set\":\"v12-m1-WE-05\",\"hiroshima.lastMission2Set\":\"v12-m2-EE-15\",\"hiroshima.lastMission3Set\":\"v12-m3-EWW-09\"}",
+        "sameContext": true,
+        "time": 27900,
+        "hp": 100,
+        "heat": 0,
+        "stamina": 100,
+        "world": "PRE_BLAST",
+        "ending": false,
+        "music": "",
+        "started": false,
+        "mission": "inactive",
+        "postPlan": null,
+        "hidden": false
+      }
+    }
+  ],
+  "errors": []
+}

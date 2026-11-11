@@ -1,0 +1,30 @@
+{
+  "PASS": true,
+  "variant": "BURN_PARTIAL",
+  "deathPose": 1.12,
+  "tramMeshes": 7,
+  "fire": {
+    "id": "fire-damaged-tram",
+    "center": {
+      "x": 2.1,
+      "z": -55.8
+    },
+    "radius": 0.9,
+    "coreRadius": 0.25,
+    "level": "SMALL",
+    "intensity": 0.7,
+    "heat": 50,
+    "smoke": 0.2,
+    "duration": -1
+  },
+  "exposure": {
+    "heat": 35.23097537343308,
+    "smoke": 0.03978975023781224,
+    "contact": 0.33333333333333326,
+    "rubble": 0,
+    "zones": [
+      "fire-damaged-tram"
+    ]
+  },
+  "collider": "{\"x\":1.2,\"z\":-55,\"w\":1.23,\"d\":3.1799999999999997,\"tram\":true}"
+}

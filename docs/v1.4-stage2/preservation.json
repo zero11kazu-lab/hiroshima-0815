@@ -1,0 +1,13 @@
+{
+  "baseline": "718726d7e54f5755b2604184cf8e0f015fc7bf96",
+  "existingGameplayAssetsChanged": [
+    "src/building-samples-v14.js",
+    "src/world.js",
+    "src/aftermath.js",
+    "data/building_samples_v14.json"
+  ],
+  "NPCs": 37,
+  "mapAndNonTreeCollidersUnchanged": true,
+  "PDFUnchanged": true,
+  "characterAndMissionSourceUnchanged": true
+}
