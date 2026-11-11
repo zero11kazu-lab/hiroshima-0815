@@ -1,0 +1,10 @@
+.env
+.env.*
+.wrangler/
+.openai/
+.codex/
+.agents/
+node_modules/
+__pycache__/
+*.key
+*.pem

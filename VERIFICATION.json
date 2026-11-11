@@ -1,0 +1,60 @@
+{
+  "gameVersion": "1.0",
+  "purpose": "Pre-Version-1.4 rollback backup transfer; not a deployment",
+  "originalCompleteBackup": {
+    "filename": "HIROSHIMA_08_15_V1.0_COMPLETE_BACKUP.zip",
+    "bytes": 4299943,
+    "sha256": "9302855767defe7c9df01fc471ede09b1c9181fa7f7edfa2c177e2cde52211c4",
+    "unchangedCopy": true,
+    "manifestVerified": true,
+    "rebuildMatchesLive": true
+  },
+  "publicFiles": [
+    {
+      "path": "index.html",
+      "bytes": 971491,
+      "sha256": "b03c72c6c909bf92a106395174df639c041da90b0f2e42b6438a045f20733e70",
+      "currentWorkerHTTP": 200,
+      "matchesLive": true,
+      "matchesCompleteBackup": true
+    },
+    {
+      "path": "assets/title/dome.webp",
+      "bytes": 282166,
+      "sha256": "3facc56e20ffeae9feb678b287e0c8a148cb64e8a72869a95d0dd49c88c3e5dd",
+      "currentWorkerHTTP": 200,
+      "matchesLive": true,
+      "matchesCompleteBackup": true
+    },
+    {
+      "path": "assets/title/ATTRIBUTION.txt",
+      "bytes": 432,
+      "sha256": "0185bde0c8e849abb0d8b52851a7ffc06839e321b6d6f08f6f9e27f72796c233",
+      "currentWorkerHTTP": 200,
+      "matchesLive": true,
+      "matchesCompleteBackup": true
+    },
+    {
+      "path": "assets/ending/memorial.webp",
+      "bytes": 24644,
+      "sha256": "0449a3729270d1fef382540f59a15299b68a19f331e6e6ca2cd6125ff60d52d1",
+      "currentWorkerHTTP": 200,
+      "matchesLive": true,
+      "matchesCompleteBackup": true
+    },
+    {
+      "path": "assets/docs/hiroshima_history_map_design.pdf",
+      "bytes": 1472407,
+      "sha256": "360634576f175e33810c7e9cecd2c1c5f82423938bc46189c841094921ca375e",
+      "currentWorkerHTTP": 200,
+      "matchesLive": true,
+      "matchesCompleteBackup": true
+    }
+  ],
+  "credentialScanPassed": true,
+  "legacyHostingConfigContainsOnlySiteIdAndStaticDirectory": true,
+  "cloudflareConfigurationIncluded": false,
+  "cloudflareRollbackVersionId": null,
+  "workerModified": false,
+  "v14MainModified": false
+}
